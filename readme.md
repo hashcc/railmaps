@@ -2,7 +2,7 @@
 
 Railway maps of world's famous cities. Maps are created by Adobe illustrator, and output as SVG.
 
-[You can view the TOKYO map here](http://railmaps.jp/tokyo).
+[You can view the TOKYO map here](http://www.railmaps.jp/tokyo).
 
 # License
 
