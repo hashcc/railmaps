@@ -1,0 +1,27 @@
+body{
+}
+
+*:hover{
+  cursor: all-scroll;
+}
+
+@font-face {
+  font-family:'mplus-2p-heavy';
+  src: url('../fonts/mplus-2p-heavy-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-heavy-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-heavy-sub.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'mplus-2p-bold';
+  src: url('../fonts/mplus-2p-bold-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-bold-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-bold-sub.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'mplus-2p-medium';
+  src: url('../fonts/mplus-2p-medium-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-medium-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-medium-sub.ttf') format('truetype');
+}
