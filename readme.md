@@ -1,6 +1,6 @@
 # What's this?
 
-Railway maps of world's famous cities. Maps are created by Adobe illustrator, and are outputed as SVG.
+Railway maps of world's famous cities. Maps are created by Adobe illustrator, and are outputted as SVG.
 
 - [You can view the TOKYO map here](http://www.railmaps.jp/tokyo).
 - [Stories of making these maps](http://note.openvista.jp/2014/svg-rail-map).
