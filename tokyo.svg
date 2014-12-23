@@ -57,18 +57,6 @@
 			<text transform="matrix(0.75 0 0 1 4274 2077.4346)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18" glyph-orientation-vertical="0" writing-mode="tb">荒川</text>
 	</g>
 	<g>
-		<text transform="matrix(0.75 0 0 1 4306.707 2759.3945)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(0.75 0 0 1 3994 2941)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">田</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(0.75 0 0 1 3994 2179.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">田</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(0.75 0 0 1 4306.707 2220)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
-	</g>
-	<g>
 		<text transform="matrix(0.75 0 0 1 4690.2832 2550.75)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">江</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">戸</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
 	</g>
 	<g>
@@ -78,16 +66,32 @@
 		<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 3978.9746 311.7739)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">江</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">戸</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(0.75 0 0 1 2398 1441.2168)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅田川</text>
+		<text transform="matrix(0.75 0 0 1 3994 2941)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">田</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(0.75 0 0 1 2407 1394.0391)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒川</text>
+		<text transform="matrix(0.75 0 0 1 3994 2179.5)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">田</tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0.75 0 0 1 2398 1441.2168)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅田川</text>
 	</g>
 	<g>
 		<text transform="matrix(0.75 0 0 1 3227.0205 1441.0479)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">隅田川</text>
 	</g>
 	<g>
+		<text transform="matrix(0.75 0 0 1 4306.707 2759.3945)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0.75 0 0 1 4306.707 2220)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒</tspan><tspan x="0" y="24" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">川</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0.75 0 0 1 2407 1394.0391)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒川</text>
+	</g>
+	<g>
 		<text transform="matrix(0.75 0 0 1 3236.0205 1393.8701)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒川</text>
+	</g>
+	<g>
+		
+			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1170.4111 847.0947)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒川</text>
 	</g>
 	<g>
 		<text transform="matrix(0.75 0 0 1 2922.3149 3930.8799)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">多摩川</text>
@@ -98,10 +102,6 @@
 	</g>
 	<g>
 		<text transform="matrix(0.75 0 0 1 991 2825.083)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">多摩川</text>
-	</g>
-	<g>
-		
-			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1170.4111 847.0947)" fill="#FFFFFF" font-family="'mplus-2p-bold'" font-size="18">荒川</text>
 	</g>
 	<path fill="#B3CBE7" d="M417.1,2036.2c0,3.3-2.7,6-6,6H257.5c-3.3,0-6-2.7-6-6v-50.5c0-3.3,2.7-6,6-6h153.6c3.3,0,6,2.7,6,6V2036.2
 		z"/>
@@ -272,16 +272,6 @@
 				<text transform="matrix(0.75 0 0 1 3593.3008 4067.7803)" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
 			</g>
 		</g>
-		<g>
-			<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
-			<g>
-				
-					<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
-			</g>
-			<g>
-				<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
-			</g>
-		</g>
 	</g>
 	<g id="narita">
 		<g>
@@ -402,11 +392,21 @@
 				<text transform="matrix(0.75 0 0 1 6556.0527 2897.7637)"><tspan x="0" y="0" font-family="'mplus-2p-medium'" font-size="18">… 他 1</tspan><tspan x="58" y="0" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">9</tspan><tspan x="73.9" y="0" font-family="'mplus-2p-medium'" font-size="18">航空会社 </tspan></text>
 			</g>
 		</g>
+		<g>
+			<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
+			<g>
+				
+					<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
+			</g>
+			<g>
+				<text transform="matrix(0.75 0 0 1 6271.998 2958.875)" font-family="'mplus-2p-medium'" font-size="18">※ ターミナルはお手持ちの航空券などで必ずご確認ください</text>
+			</g>
+		</g>
 	</g>
 </g>
 <g id="lines">
 	<g id="other">
-		<g id="rinkai_2_">
+		<g id="rinkai">
 			<path opacity="0.5" fill="none" stroke="#31B495" stroke-width="20" stroke-linecap="round" d="M4219.1,2974v356.2
 				c0,5.5-4.5,10-10,10l-685-0.2c-5.5,0-13.2,3.2-17.1,7.1l-198.9,198.9c-3.9,3.9-11.6,7.1-17.1,7.1H2899c-5.5,0-10-4.5-10-10v-171"
 				/>
@@ -416,7 +416,7 @@
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="square" d="M4219.1,2974v356.2c0,5.5-4.5,10-10,10
 				l-685-0.2c-5.5,0-13.2,3.2-17.1,7.1l-198.9,198.9c-3.9,3.9-11.6,7.1-17.1,7.1H2899c-5.5,0-10-4.5-10-10v-171"/>
 		</g>
-		<g id="yurikamome_2_">
+		<g id="yurikamome">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="square" d="M4094,2974v431.3c0,5.5-4.5,10-10,10h-206.7
 				c-5.5,0-10-4.5-10-10L3867,3246c0-5.5-4.5-10-10-10h-204c-5.5,0-6.8-3.2-2.9-7.1l99.9-99.9c3.9-3.9,7-11.6,7-17.1l-0.9-167
 				c0-5.5-4.6-10-10.1-10l-94-0.2"/>
@@ -424,38 +424,60 @@
 				c-5.5,0-10-4.5-10-10L3867,3246c0-5.5-4.5-10-10-10h-204c-5.5,0-6.8-3.2-2.9-7.1l99.9-99.9c3.9-3.9,7-11.6,7-17.1l-0.9-167
 				c0-5.5-4.6-10-10.1-10l-94-0.2"/>
 		</g>
-		<g id="tokyo_x5F_disney_x5F_resort_1_">
+		<g id="disneyresort">
 			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" d="M4465,3069h-74
 				c-5.5,0-10,4.5-10,10v64c0,5.5,4.5,10,10,10h131c5.5,0,10-4.5,10-10v-64c0-5.5-4.5-10-10-10h-55c-5.5,0-10-4.5-10-10v-53"/>
 		</g>
-		<g id="tsukuba_x5F_express_1_">
+		<g id="tsukubaexpress">
 			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M3651,2294l260.9-260.9
 				c3.9-3.9,7.1-10.9,7.1-15.6c0-4.7-3.2-11.7-7.1-15.6l-232.9-232.9c-3.9-3.9-3.9-10.3,0-14.1l428.4-428.4
 				c3.9-3.9,11.6-7.1,17.1-7.1l229.8-0.9c5.5,0,13.2-3.2,17.1-7.1l596.9-596.9"/>
 		</g>
-		<g id="saitama-express">
+		<g id="saitamakosoku">
 			<line fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" x1="2830.5" y1="1460" x2="2830.5" y2="587.7"/>
 			
 				<line opacity="0.5" fill="none" stroke="#1AACA8" stroke-width="20" stroke-linecap="round" x1="2830.5" y1="1460" x2="2830.5" y2="587.7"/>
 			<line fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" x1="2830.5" y1="1460" x2="2830.5" y2="587.7"/>
 		</g>
-		<g>
+		<g id="tokyomonorail">
+			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M3546,3170v170c0,5.5-3.2,13.2-7.1,17.1
+				l-442.9,442.9c-3.9,3.9-2.6,7.1,2.9,7.1h359"/>
+			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M3546,3170v170c0,5.5-3.2,13.2-7.1,17.1
+				l-442.9,442.9c-3.9,3.9-2.6,7.1,2.9,7.1h359"/>
+		</g>
+		<g id="tamatoshimonorail">
+			<line fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" x1="305" y1="2086" x2="305" y2="3081.8"/>
+			<line fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="305" y1="2086" x2="305" y2="3081.8"/>
+		</g>
+		<g id="ryutetsu">
 			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M4706.2,1323.5l-9.7-9.7
 				c-3.9-3.9-3.9-10.3,0-14.1l109.5-109.5c3.9-3.9,3.9-10.3,0-14.1l-243.3-243.3"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M4706.2,1323.5l-9.7-9.7
 				c-3.9-3.9-3.9-10.3,0-14.1l109.5-109.5c3.9-3.9,3.9-10.3,0-14.1l-243.3-243.3"/>
 		</g>
-		<g id="toden-arakawa" display="none">
-			<path display="inline" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" d="M3561.4,1738.6l-248.9-248.9
-				c-3.9-3.9-11.6-7.1-17.1-7.1h-118.6c-5.5,0-13.2,3.2-17.1,7.1l-226.7,226.7c-3.9,3.9-11.6,7.1-17.1,7.1h-144.6
-				c-5.5,0-10,4.5-10,10V2130c0,5.5,4.5,10,10,10h76.1"/>
-			<path display="inline" fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M3561.4,1738.6l-248.9-248.9
-				c-3.9-3.9-11.6-7.1-17.1-7.1h-118.6c-5.5,0-13.2,3.2-17.1,7.1l-226.7,226.7c-3.9,3.9-11.6,7.1-17.1,7.1h-144.6
-				c-5.5,0-10,4.5-10,10V2130c0,5.5,4.5,10,10,10h76.1"/>
+		<g id="yamaman_x5F_yukarigaoka">
+			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M5870.5,2301v-84c0-5.5-3.2-13.2-7.1-17.1
+				l-59.1-59.1c-3.9-3.9-3.9-10.3,0-14.1l56.4-56.4c3.9-3.9,10.3-3.9,14.1,0l55.9,55.9c3.9,3.9,4,10.4,0.3,14.5l-60.5,66.4"/>
 		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="17" stroke-linecap="round" x1="3556" y1="1165" x2="3497" y2="1224"/>
-			<line fill="none" stroke="#7C7B7C" stroke-width="15" stroke-linecap="round" x1="3556" y1="1165" x2="3497" y2="1224"/>
+		<g id="chibatoshimonorail_x5F_no2">
+			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M5681.5,2866v-285c0-5.5,4.5-10,10-10H5944
+				c5.5,0,13.2,3.2,17.1,7.1l170.4,170.4"/>
+			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M5681.5,2866v-285c0-5.5,4.5-10,10-10H5944
+				c5.5,0,13.2,3.2,17.1,7.1l170.4,170.4"/>
+		</g>
+		<g id="chibatoshimonorail_x5F_no1">
+			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M5469.9,2867h205.6c5.5,0,13.2,3.2,17.1,7.1
+				l173.3,173.3"/>
+			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M5469.9,2867h205.6c5.5,0,13.2,3.2,17.1,7.1
+				l173.3,173.3"/>
+		</g>
+		<g id="toyokosoku">
+			<path opacity="0.5" fill="none" stroke="#1AA5D0" stroke-width="20" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
+				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
+			<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
+				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
+			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
+				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
 		</g>
 	</g>
 	<g id="keikyu">
@@ -465,16 +487,16 @@
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M3128,3282v108.7c0,5.5-3.2,13.2-7.1,17.1
 				l-918.1,918.1c-3.9,3.9-11.6,7.1-17.1,7.1h-421.1"/>
 		</g>
-		<g id="keikyu_x5F_haneda_x5F_airport">
+		<g id="keikyu_x5F_airport">
 			
 				<line opacity="0.5" fill="none" stroke="#DA5A98" stroke-width="20" stroke-linecap="round" x1="2707.3" y1="3830" x2="3458" y2="3830"/>
 			<line fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" x1="2707.3" y1="3830" x2="3458" y2="3830"/>
 		</g>
 		
-			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="2575" y1="3961.9" x2="3021" y2="3961.9"/>
+			<line id="keikyu_x5F_taishi" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="2575" y1="3961.9" x2="3021" y2="3961.9"/>
 	</g>
 	<g id="seibu">
-		<g>
+		<g id="seibu_x5F_kokubunji">
 			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M613.1,1981v201.1c0,5.5,0,14.5,0,20L613,2281
 				c0,5.5,4.5,10,10,10h158c5.5,0,10,4.5,10,10v17"/>
 			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M613.1,1981v201.1c0,5.5,0,14.5,0,20L613,2281
@@ -502,53 +524,53 @@
 					<g clip-path="url(#SVGID_5_)">
 						
 							<image overflow="visible" width="43.1" height="43.1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWZJREFUeNrU2D+KwkAUBvDx5QLe
-wVrwADaiB1BPkBMIexUvYG+hFxC00ELYhYWtlUVsxWijnY7RBDUZMxNx5nsPHvkDSX6EkOR7JCzX
-37RdlN3MezzZxsrFWPZQrvvQ4Dts5barlwdNjrAiL5ocYnOhyTHWGE0AWCM0gWBj9He/7lsFv4EV
-x9VWBLP/3qhT8q2A38Xu5ishTtc7rUITIDZ+PNLQBIpVogkYm4omcGwCXWCAva9WgRH2V3bN44Rt
-dBeBxwl72fA4YbXBKFgtMBI2E4yGfQlGxCrBqNhUMDI2AUbHPoA5YGMwF2wI5oSN/oeHXLAR+Et2
-wAEbgsvVQXgSXbRLbByRdNGusQ+ZLguNgE2EUBUaBZuamp/Rh+UGBquM+RFaYoP9zxoGmxnzR51S
-5fZRKSJgMwcp8qJGr7xPY7UmPwboj2O1R1UaaCtYo9naC7Q1rBFYgbaKNQY/oSe2sZc6CzAABubF
-gRhghN4AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 2485.2358 1698.6445)"/>
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWtJREFUeNrU2EFqwkAUBuB59gK5
+Q9eFHKCbogdoewK9gNAj9ARCL6DrLuoFCm66KSgIrnUhbku1m7rTFzEhNjPOTGom/3vwSAgkfISX
+l3mjVOCYfTxGnPdl72+ExvJhxDnk83aZZ1AN2Dh3uXNz+zaAAxuwpdBUM9YbTQBYLzSBYJ3RDSBs
+Ev3xa7Md9A3/A6u2y2+1+VwqtVOd1st8UDn4QtisPHRoAsUa0QSM1aIJHFtAkwDsCZqEYNN4uBKE
+nXI+kyDsHZfEmiRhvT46BKwzGAXrBEbCWsFo2LNgRKwRjIrVgpGxBTA69gQsAZuBpWAPYEnYdGoe
+SsGm4CfOtQRsvobjY1lEyNi/XcKKrhur68NGNALW9KcroFGw59YSGfp38aV+JisIrG21FjN2xNgI
+BWtdD793r527Rwis08Thia4U6zzTOaIrx3pNzRZ0EKz33poBHQzrDdagg2JLgXPoXrI5FxKbxF6A
+AQDXAbttfP/UUQAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 2485.2358 1698.6445)"/>
 					</g>
 				</g>
 				
 					<image overflow="visible" width="538.8" height="202.5" xlink:href="data:image/png;base64,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
-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
-DAAd1knsI8Fn3wAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 1961.3037 1726.9287)"/>
+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
+rkJggg==" transform="matrix(1 0 0 1 1961.3037 1726.9287)"/>
 				<g>
 					<defs>
 						<path id="SVGID_6_" d="M1976.1,1928.8l-0.7,0.7c-3.9,3.9-10.2,3.9-14.1,0s-3.9-10.2,0-14.1l0.7-0.7L1976.1,1928.8z"/>
@@ -573,11 +595,11 @@ AhmLDKFDadIAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 1933.0195 1914.6108)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="square" d="M2493,1734l-160.7,160.7
 				c-3.9,3.9-11.6,7.1-17.1,7.1H1999c-5.5,0-13.2,3.2-17.1,7.1l-13.6,13.6"/>
 		</g>
-		<g id="seibu_x5F_ikebukuro_x5F_through_x5F_fukutoshin_2_">
+		<g id="seibu_x5F_ikebukuro_1_">
 			<line fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" x1="2676" y1="1927" x2="1977" y2="1927"/>
 			<line fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="2676" y1="1927" x2="1977" y2="1927"/>
 		</g>
-		<g id="seibu_x5F_ikebukuro_x5F_through_x5F_fukutoshin_x5F_yurakucho_2_">
+		<g id="seibu_x5F_ikebukuro">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="square" d="M1968.5,1927.7H627c-5.5,0-13.2-3.2-17.1-7.1
 				l-239.8-239.8c-3.9-3.9-11.6-7.1-17.1-7.1H126.7"/>
 			<g opacity="0.5">
@@ -598,81 +620,80 @@ cnc+AAgwAASGC/6sUm0aAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 1967.52 1917.666
 				</g>
 				
 					<image overflow="visible" width="1841.8" height="273.9" xlink:href="data:image/png;base64,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
-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
-YII=" transform="matrix(1 0 0 1 126.667 1663.7627)"/>
+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" transform="matrix(1 0 0 1 126.667 1663.7627)"/>
 				<g>
 					<defs>
 						<path id="SVGID_10_" d="M127.6,1683.8h-1c-5.5,0-10-4.5-10-10s4.5-10,10-10h1V1683.8z"/>
@@ -694,29 +715,27 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 		</g>
 		
 			<line id="seibu_x5F_toshima_2_" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="12" stroke-linecap="round" x1="1935.7" y1="1865" x2="1980.7" y2="1910"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="
-			M1224,2203.7"/>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="
-			M1224,2321"/>
-		<g>
+		<g id="seibu_x5F_haijima">
 			<line fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" x1="885" y1="2195" x2="217" y2="2195"/>
 		</g>
-		<g>
+		<g id="seibu_x5F_tamako">
 			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M806,2318.2V2115c0-5.5-4.5-10-10-10H447
 				c-5.5,0-10-4.5-10-10v-164"/>
 			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M806,2318.2V2115c0-5.5-4.5-10-10-10H447
 				c-5.5,0-10-4.5-10-10v-164"/>
 		</g>
 		
-			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="436.5" y1="1931" x2="258" y2="1931"/>
+			<line id="seibu_x5F_yamaguchi" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="436.5" y1="1931" x2="258" y2="1931"/>
 		
-			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="617.1" y1="2020" x2="506.4" y2="2020"/>
-		<g>
+			<line id="seibu_x5F_seibuen" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="617.1" y1="2020" x2="506.4" y2="2020"/>
+		<g id="seibu_x5F_sayama">
 			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M252,1932v-45c0-5.5,4.5-10,10-10l300.8,1"/>
 		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" x1="305" y1="2086" x2="305" y2="3081.8"/>
-			<line fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" x1="305" y1="2086" x2="305" y2="3081.8"/>
+		<g id="seibu_x5F_tamagawa">
+			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M1237.5,2320.3l-299.1,299.1
+				c-3.9,3.9-7.1,11.6-7.1,17.1v122"/>
+			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M1237.5,2320.3l-299.1,299.1
+				c-3.9,3.9-7.1,11.6-7.1,17.1v122"/>
 		</g>
 	</g>
 	<g id="toei">
@@ -756,15 +775,19 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 				c0,5.5-3.2,13.2-7.1,17.1l-149.9,149.9c-3.9,3.9-7.1,11.6-7.1,17.1v266c0,5.5-4.5,10-10,10h-266.7c-5.5,0-10,4.5-10,10v193.8
 				c0,5.5-3.2,13.2-7.1,17L3351.1,3273c-3.9,3.9-11.6,7-17.1,7h-602c-5.5,0-13.2,3.2-17.1,7.1L2394,3608"/>
 		</g>
-		<g id="toei_x5F_nippori_x5F_toneri_x5F_liner_4_">
-			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M3375.4,967"/>
-			<path fill="none" stroke="#AD7D20" stroke-width="14" stroke-linecap="round" d="M3375.4,967"/>
-		</g>
-		<g id="toei_x5F_nippori_x5F_toneri_x5F_liner_1_">
+		<g id="toei_x5F_nipporitoneriliner">
 			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M3480.8,1877.8l-98.3-98.3
 				c-3.9-3.9-7.1-11.6-7.1-17.1V966"/>
 			<path fill="none" stroke="#AD7D20" stroke-width="14" stroke-linecap="round" d="M3480.8,1877.8l-98.3-98.3
 				c-3.9-3.9-7.1-11.6-7.1-17.1V966"/>
+		</g>
+		<g id="toei_x5F_arakawa" display="none">
+			<path display="inline" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" d="M3561.4,1738.6l-248.9-248.9
+				c-3.9-3.9-11.6-7.1-17.1-7.1h-118.6c-5.5,0-13.2,3.2-17.1,7.1l-226.7,226.7c-3.9,3.9-11.6,7.1-17.1,7.1h-144.6
+				c-5.5,0-10,4.5-10,10V2130c0,5.5,4.5,10,10,10h76.1"/>
+			<path display="inline" fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M3561.4,1738.6l-248.9-248.9
+				c-3.9-3.9-11.6-7.1-17.1-7.1h-118.6c-5.5,0-13.2,3.2-17.1,7.1l-226.7,226.7c-3.9,3.9-11.6,7.1-17.1,7.1h-144.6
+				c-5.5,0-10,4.5-10,10V2130c0,5.5,4.5,10,10,10h76.1"/>
 		</g>
 	</g>
 	<g id="tokyometro">
@@ -833,7 +856,7 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 				c3.9-3.9,7.1-11.6,7.1-17.1l0.5-154.9c0-5.5-3.1-13.2-6.9-17.2L3657,2303.2c-3.8-3.9-7-11.7-7-17.2v-526c0-5.5,3.2-13.2,7.1-17.1
 				l120.9-120.9c3.9-3.9,11.6-7.1,17.1-7.1h15"/>
 		</g>
-		<g id="tokyometro_x5F_marunouchi_x5F_branch_2_">
+		<g id="tokyometro_x5F_marunouchi">
 			<path fill="none" stroke="#DA1817" stroke-width="20" stroke-linecap="round" d="M2220,2429l-62.9,62.9
 				c-3.9,3.9-11.6,7.1-17.1,7.1h-199"/>
 		</g>
@@ -855,6 +878,14 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 		</g>
 	</g>
 	<g id="keisei">
+		
+			<line id="hokuso_x5F_hokuso" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" x1="4451" y1="1666.1" x2="5785.3" y2="1667.1"/>
+		<g id="shinkeisei_x5F_shinkeisei">
+			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M5180.9,2438.5v-518c0-5.5-3.2-13.2-7.1-17.1
+				l-258.3-258.3c-3.9-3.9-7.1-11.6-7.1-17.1v-146.7c0-5.5-4.5-10-10-10H4595"/>
+			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M5180.9,2438.5v-518c0-5.5-3.2-13.2-7.1-17.1
+				l-258.3-258.3c-3.9-3.9-7.1-11.6-7.1-17.1v-146.7c0-5.5-4.5-10-10-10H4595"/>
+		</g>
 		<g id="keisei_x5F_oshiage_1_">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M4144,2019v-137c0-5.5,3.2-13.2,7.1-17.1
 				l179.2-178.7"/>
@@ -863,19 +894,19 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M4144,2019v-137c0-5.5,3.2-13.2,7.1-17.1
 				l179.2-178.7"/>
 		</g>
-		<g id="keisei_x5F_nariya_x5F_skyaccess_2_">
+		<g id="keisei_x5F_nariyaskyaccess">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M4329.8,1688H6375c5.5,0,10,4.5,10,10v365"/>
 			<path opacity="0.5" fill="none" stroke="#DA5A98" stroke-width="20" stroke-linecap="round" d="M4329.8,1688H6375
 				c5.5,0,10,4.5,10,10v365"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M4329.8,1688H6375c5.5,0,10,4.5,10,10v365"/>
 		</g>
-		<g id="keisei_x5F_main2_2_">
+		<g id="keisei_x5F_keisei_1_">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M3565,1993l-176.9-176.9
 				c-3.9-3.9-3.9-10.3,0-14.1l106.9-106.9c3.9-3.9,11.6-7.1,17.1-7.1l813.2-1"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M3565,1993l-176.9-176.9
 				c-3.9-3.9-3.9-10.3,0-14.1l106.9-106.9c3.9-3.9,11.6-7.1,17.1-7.1l813.2-1"/>
 		</g>
-		<g id="keisei_x5F_main1_2_">
+		<g id="keisei_x5F_keisei">
 			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M4451,1695.1V1973c0,5.5,3.2,13.2,7.1,17.1
 				L4896,2428c3.9,3.9,11.6,7.1,17.1,7.1H5413c5.5,0,13.2-3.2,17-7.1l114.6-116.4c3.9-3.9,11.5-7.1,17-7.1H5991c5.5,0,10-4.5,10-10
 				l0.2-486.2c0-5.5,4.5-10,10-10H6319c5.5,0,10,4.5,10,10v245.5"/>
@@ -888,51 +919,19 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 		</g>
 		
 			<line id="keisei_x5F_kanamachi_1_" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="4451" y1="1580.5" x2="4451" y2="1681"/>
-		<g>
-			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M4941,2381V1086.8c0-5.5-3.2-13.2-7.1-17.1
-				l-834.5-834.5c-3.9-3.9-11.6-7.1-17.1-7.1H2042c-5.5,0-13.2,3.2-17.1,7.1l-191.1,191.1"/>
+		<g id="keisei_x5F_chihara">
+			<line fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" x1="5711.6" y1="2967.5" x2="5977.6" y2="3233.5"/>
+			<line fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="5711.6" y1="2967.5" x2="5977.6" y2="3233.5"/>
 		</g>
-		
-			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" x1="4451" y1="1666.1" x2="5785.3" y2="1667.1"/>
-		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M5180.9,2438.5v-518c0-5.5-3.2-13.2-7.1-17.1
-				l-258.3-258.3c-3.9-3.9-7.1-11.6-7.1-17.1v-146.7c0-5.5-4.5-10-10-10H4595"/>
-			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M5180.9,2438.5v-518c0-5.5-3.2-13.2-7.1-17.1
-				l-258.3-258.3c-3.9-3.9-7.1-11.6-7.1-17.1v-146.7c0-5.5-4.5-10-10-10H4595"/>
+		<g id="keisei_x5F_chiba">
+			<line fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" x1="5180.9" y1="2438.5" x2="5714.2" y2="2970.8"/>
+			<line fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="5180.9" y1="2438.5" x2="5714.2" y2="2970.8"/>
 		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" x1="5180.9" y1="2438.5" x2="5974.2" y2="3230.8"/>
-			<line fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="5180.9" y1="2438.5" x2="5974.2" y2="3230.8"/>
-		</g>
-		<g>
-			<path opacity="0.5" fill="none" stroke="#1AA5D0" stroke-width="20" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
-				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
-			<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
-				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
-			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M4791.9,2388.1l252.4-252.4
-				c3.9-3.9,11.6-7.1,17.1-7.1h458.5c5.5,0,13.2,3.2,17.1,7.1l147.8,147.8"/>
-		</g>
-		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M5681.5,2866v-285c0-5.5,4.5-10,10-10H5944
-				c5.5,0,13.2,3.2,17.1,7.1l170.4,170.4"/>
-			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M5681.5,2866v-285c0-5.5,4.5-10,10-10H5944
-				c5.5,0,13.2,3.2,17.1,7.1l170.4,170.4"/>
-		</g>
-		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M5469.9,2867h205.6c5.5,0,13.2,3.2,17.1,7.1
-				l173.3,173.3"/>
-			<path fill="none" stroke="#9F9FA0" stroke-width="14" stroke-linecap="round" d="M5469.9,2867h205.6c5.5,0,13.2,3.2,17.1,7.1
-				l173.3,173.3"/>
-		</g>
-		<g>
+		<g id="keisei_x5F_higashinarita">
 			<path opacity="0.5" fill="none" stroke="#DA5A98" stroke-width="20" stroke-linecap="round" d="M6229,2147v-299
 				c0-5.5-3.2-13.2-7.1-17.1l-31.1-31.1"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M6229,2147v-299c0-5.5-3.2-13.2-7.1-17.1
 				l-31.1-31.1"/>
-		</g>
-		<g>
-			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M5870.5,2301v-84c0-5.5-3.2-13.2-7.1-17.1
-				l-59.1-59.1c-3.9-3.9-3.9-10.3,0-14.1l56.4-56.4c3.9-3.9,10.3-3.9,14.1,0l55.9,55.9c3.9,3.9,4,10.4,0.3,14.5l-60.5,66.4"/>
 		</g>
 	</g>
 	<g id="keio">
@@ -942,7 +941,7 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M2526.4,2492.1l-125.9,125.9
 				c-3.9,3.9-11.6,7.1-17.1,7.1H217"/>
 		</g>
-		<g id="keio_x5F_shin_2_">
+		<g id="keio_x5F_new">
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="square" d="M2495,2498.1l-100.9,100.9
 				c-3.9,3.9-11.6,7.1-17.1,7.1h-164.5"/>
 		</g>
@@ -950,6 +949,16 @@ Sl1uiV8AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 86.667 1663.7627)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M2463,2960h-94c-5.5,0-13.2-3.2-17.1-7.1
 				l-379.9-379.9c-3.9-3.9-11.6-7.1-17.1-7.1h-195.5c-5.5,0-13.2-3.2-17.1-7.1l-238.3-238.3"/>
 		</g>
+		<g id="keio_x5F_sagamihara">
+			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M1195.3,2633.3v174c0,5.5-3.2,13.2-7.1,17.1
+				l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
+			<path opacity="0.5" fill="none" stroke="#74BB63" stroke-width="20" stroke-linecap="round" d="M1195.3,2633.3v174
+				c0,5.5-3.2,13.2-7.1,17.1l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
+			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M1195.3,2633.3v174c0,5.5-3.2,13.2-7.1,17.1
+				l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
+		</g>
+		
+			<line id="keio_x5F_keibajo" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="804.2" y1="2630.9" x2="804.2" y2="2707.3"/>
 	</g>
 	<g id="tokyu">
 		<g id="tokyu_x5F_oimachi_2_">
@@ -1141,19 +1150,19 @@ ADjG/wswANJ2xEF1tcvJAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 1695.9287 3191)"
 					<g clip-path="url(#SVGID_15_)">
 						
 							<image overflow="visible" width="43.1" height="43.1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqFJREFUeNrM2L+K1EAcB/DfzKSw
-8oJis2J/5TzCCRZaCBb+abP4AOIDbOUT2FkoWRRFwfPOf2CxkFe4dxDkLDzuCtHiMuNvxoubmPmT
-bJJJAmHYZZN89sd3/mQIBD5mb9/EAmBPSvLw+527B22vpyNgM5BkBwTJLr3e5ZMFF1isLJeCALZx
-LiCLX77jkwOXKsvhLxZyQUEgWmClt57v88mAy1gFLbC5BEAs4PcxVjyL0w98dHAFqyorqliCeFVx
-imiqMv30Ex8NXMPWK6v/AGIBscAQzTDTl5985sHBdSz9h5VnWKhigQl9xvRnlM0WKx4MbK4scWJ1
-ixfR3wzyExbjbaxoOnxliSsGuo0K7FGEv9G3sqJJSGw9BqCj8B+2fBzjefXbo2sHvYI3w5ZiYMYa
-0bQvrKxkFkxDlzmzbmwtHqQvLFQ6GLFWluIFkTsGzkqzfrFUY6Ujsxti1XEOz20WqrINOpjvUBm+
-Qbpj6VlmB8eqjndMu1fWjqU9Y9WHqAv2VC8RwZnZPrGNwZX1rFxnVnSbFFpjG4GbdjASAOsdh+0L
-mfXQJQNV1lth05vCqY6BHasmBd0OhLWCbZUtsNKWWfX513BYI7jBO1iwDuYFuxbftg4WIgZGsLmy
-xLs2CBGD2ihRw4qGMQiM1RU2Y92LbxowszUwPntHFjOYqE4KZIRx1rsvcXj73j5i5+sYeCYFOR62
-MtNdfLWbIDZ1vimMkFnn1Lz1Yi/BeKTF0MUmEgPnWuL88n2C2HSKWOvi58KzjwnT6HGGrtZ7a0f3
-by4RO58a1ru8vPL4S5L/iNKpYL0bKV8fXF8idj4VbOONlNlilWCTjo1ttfPTAD04tvVWlQMdBLvR
-3poBHQy78WZgCR0U222bdbG6hWcc+rl/BBgAb8+WDRsO/UIAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 1667.6445 3791.2363)"/>
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqVJREFUeNrM2M9r1EAUB/A3Mzl4
+Mxcv9R/wmD+hBQ8Kioq2giA4CF7FP6Cn/hM9CAZBUPBHEb0V8i/4PwjSHiytIHrozvhm2nQ3Zl4y
+u0leEghhl93NZx/fzLyZBJiPtffvUgPwyVrx4nBz69uy35cjYAuwYh2MKK68/ZBNFlxisbKZNQLw
+ms4MFOmbj9nkwAuVzeAMCzMjwSDaYKUvv97LJgNexDpoiZ1ZAMQCvp9ixYv01edsdHAF6yprqliB
+eFdxiWjpMv3ySzYauIatV9b/AcQCYkEhWmGmr+5+zdjBday8wNpzLFSxoIw/U/k7Kda29zM2cLiy
+ohHrr/gl+VfB7ESl+DMkWg5fWdEUA39NSuxRgp/xP0Wi5fBYQWJdVQPY8giiJVdlicxSWBIt+8La
+SmYhNHSFM0tjg2jRFxYqD5ggKyt9DEQsdvE4xnND9YuVHksPXStj3XEJz2uKq7IOq1bHusO1ojdl
+d6zkwm782Ll+LLtXFkis7BnrXiRdsKe+RYTGzPaJjQZX+lk7z6xpHGf7x0aBYx8wwYBtnTjCKwVx
+MXQtTgqKAdtY4dBK4dTHYD7O2sCk4K8DYUkw1SKWWEtl1r3+Mxw2CI5Yg7E9YK3gpuabesA4YhAE
+hysrWnsDjhjUwDWsiYwBM9aDw9jm5lsyZrYGxnuv23IGM9VJQRDLmrGwfuI4ePBwD7F6HgN6nFXM
+Dxi5aj7c2syxsrqMgaViMEJmyan556P7OVZUU72BXymMjK31EieP7+WI1YKxN+i8P/zryZ0cgXoq
+mY3q1o6e3kY06ClkNrq9PHh2K8fK6ilhW/vh789v5IjVU8FG7fzgjXO86Clgo7eqItGDY5faW2tB
+s2CX3gwk0GzYlXYv/0OzYrtts27v38Uz5b7vPwEGAHv7nFZ4rUjYAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 1667.6445 3791.2363)"/>
 					</g>
 				</g>
 			</g>
@@ -1191,39 +1200,23 @@ by4RO58a1ru8vPL4S5L/iNKpYL0bKV8fXF8idj4VbOONlNlilWCTjo1ttfPTAD04tvVWlQMdBLvR
 		</g>
 	</g>
 	<g id="odakyu">
-		<g>
+		<g id="odakyu_x5F_odawara_2_">
 			<path opacity="0.5" fill="none" stroke="#74BB63" stroke-width="20" stroke-linecap="round" d="M971,3156l-348.5,347.9
 				c-3.9,3.9-11.6,7.1-17.1,7.1H364.7"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M971,3156l-348.5,347.9
 				c-3.9,3.9-11.6,7.1-17.1,7.1H364.7"/>
 		</g>
-		<g id="odakyu_x5F_odakyu_x5F_through_x5F_chiyoda_2_">
+		<g id="odakyu_x5F_odawara">
 			<path opacity="0.5" fill="none" stroke="#169C4C" stroke-width="20" stroke-linecap="round" d="M2309.7,2741.2l-76.7,76.7
 				c-3.9,3.9-11.6,7.1-17.1,7.1h-525.9c-5.5,0-13.2,3.2-17.1,7L1358.2,3145c-3.9,3.9-11.6,7-17.1,7H204"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M2309.7,2741.2l-76.7,76.7
 				c-3.9,3.9-11.6,7.1-17.1,7.1h-525.9c-5.5,0-13.2,3.2-17.1,7L1358.2,3145c-3.9,3.9-11.6,7-17.1,7H204"/>
 		</g>
-		<g id="odakyu_x5F_odakyu_2_">
+		<g id="odakyu_x5F_odawara_1_">
 			<line fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="2318" y1="2732" x2="2482" y2="2567"/>
 		</g>
-		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M1195.3,2633.3v174c0,5.5-3.2,13.2-7.1,17.1
-				l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
-			<path opacity="0.5" fill="none" stroke="#74BB63" stroke-width="20" stroke-linecap="round" d="M1195.3,2633.3v174
-				c0,5.5-3.2,13.2-7.1,17.1l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
-			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M1195.3,2633.3v174c0,5.5-3.2,13.2-7.1,17.1
-				l-286.3,285.3c-3.9,3.9-11.6,7.1-17.1,7.1H204.3"/>
-		</g>
-		
-			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" x1="804.2" y1="2630.9" x2="804.2" y2="2707.3"/>
-		<g>
-			<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M1237.5,2320.3l-299.1,299.1
-				c-3.9,3.9-7.1,11.6-7.1,17.1v122"/>
-			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M1237.5,2320.3l-299.1,299.1
-				c-3.9,3.9-7.1,11.6-7.1,17.1v122"/>
-		</g>
 	</g>
-	<g id="JR">
+	<g id="jr">
 		<g id="jr_x5F_saikyo_2_">
 			<path fill="none" stroke="#31B495" stroke-width="15" stroke-linecap="round" d="M2890,3346.2V3322c0-5.5-4.5-10-10-10h-57
 				c-5.5,0-13.2-3.2-17.1-7.1l-219.8-218.9c-3.9-3.9-7.1-11.6-7.1-17.1v-972c0-5.5,3.2-13.2,7.1-17.1l105.9-105.9
@@ -1247,17 +1240,17 @@ by4RO58a1ru8vPL4S5L/iNKpYL0bKV8fXF8idj4VbOONlNlilWCTjo1ttfPTAD04tvVWlQMdBLvR
 				<line fill="none" stroke="#FFFFFF" stroke-width="10" x1="1773" y1="4263.5" x2="1758" y2="4263.5"/>
 			</g>
 		</g>
-		<g id="jr_x5F_keihin_x5F_tohoku_2_">
-			<path fill="none" stroke="#1EB2D8" stroke-width="15" stroke-linecap="round" d="M1694.7,4282H2161c5.5,0,13.2-3.2,17.1-7.1
+		<g id="jr_x5F_keihintohoku">
+			<path fill="none" stroke="#1EB2D8" stroke-width="15" stroke-linecap="round" d="M1589.7,4282H2161c5.5,0,13.2-3.2,17.1-7.1
 				l883.8-881.9c3.9-3.9,11.6-7.1,17.1-7.1h237c5.5,0,13.2-3.2,17.1-7.1l260.9-261.7c3.9-3.9,7.1-11.6,7-17.1l-2-1034.1
 				c0-5.5-3.2-13.2-7.1-17.1l-260.8-259.9c-3.9-3.9-11.6-7.1-17.1-7.1h-91c-5.5,0-10-4.5-10-10v-251c0-5.5-4.5-10-10-10l-427-1
 				c-5.5,0-10-4.5-10-10v-86c0-5.5-3.2-13.2-7.1-17.1l-923.6-923.6"/>
 			<g opacity="0.5">
-				<line fill="none" stroke="#FFFFFF" stroke-width="10" x1="1694.7" y1="4282" x2="1709.7" y2="4282"/>
-				<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="29.9206,49.8676" d="M1759.5,4282H2161
+				<line fill="none" stroke="#FFFFFF" stroke-width="10" x1="1589.7" y1="4282" x2="1604.7" y2="4282"/>
+				<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-dasharray="30.044,50.0733" d="M1654.7,4282H2161
 					c5.5,0,13.2-3.2,17.1-7.1l883.8-881.9c3.9-3.9,11.6-7.1,17.1-7.1h237c5.5,0,13.2-3.2,17.1-7.1l260.9-261.7
 					c3.9-3.9,7.1-11.6,7-17.1l-2-1034.1c0-5.5-3.2-13.2-7.1-17.1l-260.8-259.9c-3.9-3.9-11.6-7.1-17.1-7.1h-91c-5.5,0-10-4.5-10-10
-					v-251c0-5.5-4.5-10-10-10l-427-1c-5.5,0-10-4.5-10-10v-86c0-5.5-3.2-13.2-7.1-17.1l-895.4-895.4"/>
+					v-251c0-5.5-4.5-10-10-10l-427-1c-5.5,0-10-4.5-10-10v-86c0-5.5-3.2-13.2-7.1-17.1l-895.3-895.3"/>
 				<line fill="none" stroke="#FFFFFF" stroke-width="10" x1="1845.9" y1="483.9" x2="1835.3" y2="473.3"/>
 			</g>
 		</g>
@@ -1285,7 +1278,7 @@ by4RO58a1ru8vPL4S5L/iNKpYL0bKV8fXF8idj4VbOONlNlilWCTjo1ttfPTAD04tvVWlQMdBLvR
 				M1846,222.4l-62.3,62.3c-3.9,3.9-7.1,11.6-7.1,17.1v142.9c0,5.5,3.2,13.2,7.1,17.1l950.2,950.2c3.9,3.9,7.1,11.6,7.1,17.1v94
 				c0,5.5,4.5,10,10,10h478c5.5,0,10,4.5,10,10v52c0,5.5,3.2,13.2,7.1,17.1l368.8,368.8c3.9,3.9,7.1,11.6,7.1,17.1v24"/>
 		</g>
-		<g id="jr_x5F_shonan_x5F_shinjuku_2_">
+		<g id="jr_x5F_shonanshinjuku">
 			<path fill="none" stroke="#DE363C" stroke-width="15" stroke-linecap="round" d="M1751.6,470.6l961.4,961.4
 				c3.9,3.9,7.1,11.6,7.1,17.1v97c0,5.5,4.5,10,10,10h451c5.5,0,10,4.5,10,10v260c0,5.5-4.5,10-10,10h-367c-5.5,0-13.2,3.2-17.1,7.1
 				l-228.9,229.8c-3.9,3.9-7.1,11.6-7.1,17.1v987c0,5.5,3.2,13.2,7.1,17.1l228.9,228.9c3.9,3.9,11.6,7.1,17.1,7.1h46
@@ -1297,6 +1290,12 @@ by4RO58a1ru8vPL4S5L/iNKpYL0bKV8fXF8idj4VbOONlNlilWCTjo1ttfPTAD04tvVWlQMdBLvR
 				c-5.5,0-13.2,3.2-17.1,7.1l-228.9,229.8c-3.9,3.9-7.1,11.6-7.1,17.1v987c0,5.5,3.2,13.2,7.1,17.1l228.9,228.9
 				c3.9,3.9,11.6,7.1,17.1,7.1h46c5.5,0,10,4.5,10,10v52c0,5.5-4.5,10-10,10h-14.3c-5.5,0-13.2,3.2-17.1,7.1l-272.2,273
 				c-3.9,3.9-11.6,7.1-17.1,7.1H1857c-5.5,0-10,4.5-10,10V4236c0,5.5-4.5,10-10,10h-250"/>
+		</g>
+		<g id="jr_x5F_joban">
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
+			<line fill="none" stroke="#2283BC" stroke-width="15" stroke-linecap="round" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
+			
+				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
 		</g>
 		<g id="jr_x5F_joban_4_">
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="square" stroke-dasharray="30,50" d="
@@ -1590,7 +1589,7 @@ AQA/SwguRuIurwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3591.4824 2018.9492)
 				M5272,1116.6h-315.3c-5.5,0-13.2,3.2-17.1,7l-467.8,463.9c-3.9,3.9-11.6,7-17.1,7H3783c-5.5,0-13.2,3.2-17.1,7L3492.9,1873
 				c-3.9,3.9-3.9,10.2,0,14.1l101.6,101.7c3.9,3.9,7.1,11.6,7.1,17.1v14.1"/>
 		</g>
-		<g id="jr_x5F_joban_x5F_local_x5F_through_x5F_chiyoda_2_">
+		<g id="jr_x5F_jobanlocal">
 			<path opacity="0.5" fill="none" stroke="#169C4C" stroke-width="20" stroke-linecap="round" d="M4088,1570.8l359,0.2
 				c5.5,0,13.2-3.2,17.1-7.1l464.4-464.4c3.9-3.9,11.6-7.1,17.1-7.1l326.8-1"/>
 			<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" d="M4088,1570.8l359,0.2c5.5,0,13.2-3.2,17.1-7.1
@@ -1600,7 +1599,7 @@ AQA/SwguRuIurwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3591.4824 2018.9492)
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M4088,1570.8l359,0.2c5.5,0,13.2-3.2,17.1-7.1l464.4-464.4c3.9-3.9,11.6-7.1,17.1-7.1l326.8-1"/>
 		</g>
-		<g id="je_x5F_keiyo_2_">
+		<g id="jr_x5F_keiyo">
 			<path fill="none" stroke="#BE2F39" stroke-width="15" stroke-linecap="round" d="M3671,2713h273c5.5,0,13.2,3.2,17.1,7.1
 				l248.6,248.6c3.9,3.9,11.6,7.1,17.1,7.1h228.9c5.5,0,13.2-3.2,17.1-7.1l422.4-422.4c3.9-3.9,11.6-7.1,17.1-7.1h214
 				c5.5,0,13.2,3.2,17.1,7.1l511,511"/>
@@ -1613,7 +1612,7 @@ AQA/SwguRuIurwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3591.4824 2018.9492)
 					<line fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" x1="5643.7" y1="3046.7" x2="5654.3" y2="3057.3"/>
 			</g>
 		</g>
-		<g id="jr_x5F_sobu_x5F_rapid_3_">
+		<g id="jr_x5F_soburapid_1_">
 			<path fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M5675.4,2849.3l451.6-451.6
 				c3.9-3.9,10.3-3.9,14.2-0.1l53.3,52.4"/>
 			<path fill="none" stroke="#F4C31F" stroke-width="15" stroke-linecap="round" d="M5675.4,2849.3l451.6-451.6
@@ -1625,7 +1624,7 @@ AQA/SwguRuIurwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3591.4824 2018.9492)
 				<line fill="none" stroke="#FFFFFF" stroke-width="10" x1="6183.8" y1="2439.5" x2="6194.5" y2="2450"/>
 			</g>
 		</g>
-		<g id="jr_x5F_sobu_x5F_rapid_1_">
+		<g id="jr_x5F_soburapid">
 			<path fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M3638,2736.5v-165c0-5.5,4.5-10,10-10h147
 				c5.5,0,13.2-3.2,17.1-7.1l269.6-269.6c3.9-3.9,11.6-7.1,17.1-7.1h31c5.5,0,13.2-3.2,17.1-7.1l219.3-219.3
 				c3.9-3.9,11.6-7.1,17.1-7.1h68.9c5.5,0,13.2,3.2,17.1,7.1l316.4,316.4c3.9,3.9,11.6,7.1,17.1,7.1H5178c5.5,0,13.2,3.2,17.1,7.1
@@ -1686,7 +1685,7 @@ AQA/SwguRuIurwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3591.4824 2018.9492)
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M2320.8,3990h219c5.5,0,13.2,3.2,17.1,7.1l74.7,74.6c3.9,3.9,11.6,7.1,17.1,7.1h145.2"/>
 		</g>
-		<g id="jr_x5F_nanbu_8_">
+		<g id="jr_x5F_tsurumi_3_">
 			<path fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M2338.7,4122.4l88.9,88.9
 				c3.9,3.9,11.6,7.1,17.1,7.1h213c5.5,0,13.2-3.2,17.1-7.1l131.9-131.9"/>
 			<g>
@@ -1711,37 +1710,37 @@ ADZEAJILYEV4IEEAOyIFAQpALCwkwZDiKsAAxRX1dtTcEzMAAAAASUVORK5CYII=" transform="mat
 				</g>
 				
 					<image overflow="visible" width="478.5" height="151.7" xlink:href="data:image/png;base64,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
-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" transform="matrix(1 0 0 1 2333.3818 4074.1602)"/>
+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" transform="matrix(1 0 0 1 2333.3818 4074.1602)"/>
 				<g>
 					<defs>
 						<path id="SVGID_14_" d="M2800.6,4074.9l0.7-0.7c2.9-2.9,7.7-2.9,10.6,0c2.9,2.9,2.9,7.7,0,10.6l-0.7,0.7L2800.6,4074.9z"/>
@@ -1764,7 +1763,7 @@ T88Sg4IwrgEGDBrCajHSYFAR1lt8DYOO6BQpBjJw9fyvAAMAZ5P5R+OJcUEAAAAASUVORK5CYII=" tr
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M2338.7,4122.4l88.9,88.9c3.9,3.9,11.6,7.1,17.1,7.1h213c5.5,0,13.2-3.2,17.1-7.1l131.9-131.9"/>
 		</g>
-		<g id="jr_x5F_nanbu_6_">
+		<g id="jr_x5F_tsurumi_2_">
 			<g>
 				<g>
 					<defs>
@@ -1805,7 +1804,7 @@ QmCC" transform="matrix(1 0 0 1 2780.1133 4210.9053)"/>
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="2668.9" y1="4218.4" x2="2781.1" y2="4218.4"/>
 		</g>
-		<g id="jr_x5F_nanbu_4_">
+		<g id="jr_x5F_tsurumi_1_">
 			<g>
 				<g>
 					<defs>
@@ -1845,7 +1844,7 @@ A2U5E8MAglHLRy2nK2BRvbN7NNhHLR+1nPZZDYgbB8pygAADAGyMB6vMSRxMAAAAAElFTkSuQmCC" tr
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="2747.8" y1="4146" x2="2856" y2="4146"/>
 		</g>
-		<g id="jr_x5F_nanbu_1_">
+		<g id="jr_x5F_tsurumi">
 			<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="2813.0918" y1="4078.4629" x2="2928.2788" y2="4078.4629">
 				<stop  offset="0" style="stop-color:#F4D21F"/>
 				<stop  offset="0.6" style="stop-color:#F4D21F"/>
@@ -1895,27 +1894,13 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="2813.1" y1="4078.5" x2="2928.3" y2="4078.5"/>
 		</g>
-		<g>
+		<g id="jr_x5F_yokohama">
 			<path fill="none" stroke="#9DCA40" stroke-width="15" stroke-linecap="round" d="M1948,4280.1v-60.4c0-5.5-3.2-13.2-7.1-17.1
 				l-236.1-236.1c-3.9-3.9-11.6-7.1-17.1-7.1H1073c-5.5,0-13.2-3.2-17.1-7.1l-530-530"/>
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M1948,4280.1v-60.4c0-5.5-3.2-13.2-7.1-17.1l-236.1-236.1c-3.9-3.9-11.6-7.1-17.1-7.1H1073c-5.5,0-13.2-3.2-17.1-7.1l-530-530"/>
 		</g>
-		<g id="上野東京ライン" display="none">
-			
-				<line display="inline" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="square" x1="3618.7" y1="2051" x2="3618.7" y2="2730.8"/>
-			
-				<line display="inline" fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linecap="square" x1="3618.7" y1="2051" x2="3618.7" y2="2730.8"/>
-			
-				<line display="inline" opacity="0.5" fill="none" stroke="#ED8E3F" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="3618.7" y1="2051" x2="3618.7" y2="2730.8"/>
-		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
-			<line fill="none" stroke="#2283BC" stroke-width="15" stroke-linecap="round" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
-			
-				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="5281.8" y1="1117.4" x2="5367.6" y2="1117.4"/>
-		</g>
-		<g>
+		<g id="jr_x5F_narita_2_">
 			<polyline fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" points="5683.8,2865.3 6145.4,2403.6 
 				6145.4,1660.1 5712.2,1226.9 5226.9,1226.9 5122.5,1122.5 			"/>
 			<path fill="none" stroke="#3EB373" stroke-width="15" stroke-linecap="round" d="M5683.8,2865.3l454.6-454.6
@@ -1925,19 +1910,13 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 				<polyline opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" points="
 				5683.8,2865.3 6145.4,2403.6 6145.4,1660.1 5712.2,1226.9 5226.9,1226.9 5122.5,1122.5 			"/>
 		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="1590" y1="4280.1" x2="1688" y2="4280.1"/>
-			<line fill="none" stroke="#1EB2D8" stroke-width="15" stroke-linecap="round" x1="1590" y1="4280.1" x2="1688" y2="4280.1"/>
-			
-				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="1590" y1="4280.1" x2="1688" y2="4280.1"/>
-		</g>
-		<g>
+		<g id="jr_x5F_narita_1_">
 			<path fill="none" stroke="#3EB373" stroke-width="15" stroke-linecap="round" d="M6226,1601l-53.4,53.4
 				c-3.9,3.9-7.1,11.6-7.1,17.1v105"/>
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M6226,1601l-53.4,53.4c-3.9,3.9-7.1,11.6-7.1,17.1v105"/>
 		</g>
-		<g>
+		<g id="jr_x5F_narita">
 			<path fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M6167.3,1767H6346c5.5,0,10,4.5,10,10v279"/>
 			<path fill="none" stroke="#3EB373" stroke-width="15" stroke-linecap="round" d="M6167.3,1767H6346c5.5,0,10,4.5,10,10v279"/>
 			<g opacity="0.5">
@@ -1947,7 +1926,13 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 				<line fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" x1="6356" y1="2041" x2="6356" y2="2056"/>
 			</g>
 		</g>
-		<g>
+		<g id="jr_x5F_kawagoe_1_">
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
+			<line fill="none" stroke="#31B495" stroke-width="15" stroke-linecap="round" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
+			
+				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
+		</g>
+		<g id="jr_x5F_takasaki">
 			<path fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" d="M1754.9,424.7V301.8c0-5.5-3.2-13.2-7.1-17.1
 				l-62.9-62.9"/>
 			<path fill="none" stroke="#ED8539" stroke-width="15" stroke-linecap="round" d="M1754.9,424.7V301.8c0-5.5-3.2-13.2-7.1-17.1
@@ -1955,17 +1940,23 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 			<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" d="
 				M1754.9,424.7V301.8c0-5.5-3.2-13.2-7.1-17.1l-62.9-62.9"/>
 		</g>
-		<g>
+		<g id="jr_x5F_uchibo">
 			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="5653.8" y1="2872" x2="5653.8" y2="3087.2"/>
 			<line fill="none" stroke="#25B6E3" stroke-width="15" stroke-linecap="round" x1="5653.8" y1="2872" x2="5653.8" y2="3087.2"/>
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="5653.8" y1="2872" x2="5653.8" y2="3087.2"/>
 		</g>
-		<g>
+		<g id="jr_x5F_sotobo">
 			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="5671.8" y1="2871.8" x2="5671.8" y2="3087"/>
 			<line fill="none" stroke="#D3492F" stroke-width="15" stroke-linecap="round" x1="5671.8" y1="2871.8" x2="5671.8" y2="3087"/>
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="5671.8" y1="2871.8" x2="5671.8" y2="3087"/>
+		</g>
+		<g id="jr_x5F_kawagoe">
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
+			<line fill="none" stroke="#AAA7A6" stroke-width="15" stroke-linecap="round" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
+			
+				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
 		</g>
 		<g id="jr_x5F_chuo_2_">
 			<path fill="none" stroke="#E6632A" stroke-width="15" stroke-linecap="round" d="M217,2322h2258c5.5,0,10,4.5,10,10v365
@@ -1975,7 +1966,7 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 				M217,2322h2258c5.5,0,10,4.5,10,10v365c0,5.5,4.5,10,10,10h266c5.5,0,13.2-3.2,17.1-7.1l376.9-376.9c3.9-3.9,11.6-7.1,17.1-7.1
 				h201.9c5.5,0,13.2,3.2,17.1,7.1l144.4,144.4c3.9,3.9,7.1,11.6,7.1,17.1v186.6"/>
 		</g>
-		<g id="jr_x5F_sobu_x5F_local_x5F_through_x5F_tozai">
+		<g id="jr_x5F_sobulocal_1_">
 			
 				<line opacity="0.5" fill="none" stroke="#1AA5D0" stroke-width="20" stroke-linecap="round" x1="2107" y1="2301.8" x2="1374.5" y2="2301.8"/>
 			<line fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" x1="2107" y1="2301.8" x2="1374.5" y2="2301.8"/>
@@ -1983,7 +1974,7 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 			
 				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-dasharray="30,50" x1="2107" y1="2301.8" x2="1374.5" y2="2301.8"/>
 		</g>
-		<g id="jr_x5F_sobu_x5F_local_1_">
+		<g id="jr_x5F_sobulocal">
 			<path fill="none" stroke="#F4D21F" stroke-width="15" stroke-linecap="round" d="M2107,2302h388c5.5,0,10,4.5,10,10v366
 				c0,5.5,4.5,10,10,10h235c5.5,0,13.2-3.2,17.1-7.1l376.9-377.8c3.9-3.9,11.6-7.1,17.1-7.1h975c5.5,0,13.2-3.2,17.1-7.1
 				l220.9-220.9c3.9-3.9,11.6-7.1,17.1-7.1h53.7c5.5,0,13.2,3.2,17.1,7.1l317.6,317.6c3.9,3.9,11.6,7.1,17.1,7.1H5171
@@ -2019,99 +2010,99 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 2927.2988 4070.9629)"/>
 					<g clip-path="url(#SVGID_40_)">
 						
 							<image overflow="visible" width="43.1" height="43.1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAY1JREFUeNrU2L1KxEAQAOCddIJI
-sLIRBEsRUomFhQc+gOcbpLLzVQSfIE8g9wCCjTZiIVgrgraKXHOts5KTU/OzM9mdmRsYrjh279vL
-ZDMbcIx4vDkp8OMcc7x7cPnpBAOY2GvMHPMBcySJhgHYeYiiYSBWHA0RsKJoiIQVQ0NErAg6a/vi
-6my7mD2/U7E+vheJi83FwB7rf3R6/5bPXj448yZDQxt28Z9d29t0K1vrnPmjlwf0Ya2hIQRrCQ2h
-WCtooGAtoLO66yLdzdO7V6e1e3jwuF65Wwb0vIbzuiwK6gTS5bG4SywF+u8+bB7d9KQzjYaWXsIs
-Gjq6NZPozn7YIrr3xGENHXSms4QOPjVbQZPeS1hAk9/8aKOBM1oTnXFGHl08+cszUujyDllgJXSJ
-JTEBNzCEysNjK9ZNp4D+wUYDJ0T/wkYFJ0D/w0YHR0Q3YpOAh6JXdzbK/dPbitVeKqBL3C4rVgOv
-gO7FJgcT0EFYEXAAOhgrBu5Ak7Ci4AY0GasSHo15zB3/JcAA+hUL5atouwwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 1646.2358 1640.189)"/>
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAX5JREFUeNrU2L1qAkEQAOAdO0Hk
+iI1FAkFLEa6QYJEm4APk8gZX2fkqgk9wT+ATCDZJk0qwDgj2QWxs3chd8Od+dmd3Z8eF4eBg975b
+9uZmFwSirT8/QnmZyoj6r/OdIGyAxC5lBDJWMt4o0WCAzRopGgyx5GiwgCVFgyUsGRosYknQheDF
+pBs2B4/LeqcVIMZ1hoYibDazzZcnUX9+EFzQUIbN7nFCQxWWGxpUsJzQoIrlggYdLAd0La26tFLX
+/nsrDptfzPNOkyPze2ACjtI3F/eAztZwkC6LUHcA6uVxniXuAn2dh9mj8/50rNFFtQRbdFm1xhJd
+Wg9zRFfuOLihlfZ0nNDKu2YuaK1zCQ5o7ZMf32jA9PaJRoE9oiM02AM6lksiMQITok9Y1EfnAf2P
+tQZ2iL7AWgU7QN9grYMtonOxTsCm6EavHQ/HXwmqvPSAjkeznwRVwHtAV2KdgzXQSlgSsAJaGUsG
+LkFrYUnBOWhtrJf2h5bxju1/FGAAoL74stsytYEAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 1646.2358 1640.189)"/>
 					</g>
 				</g>
 				
 					<image overflow="visible" width="681.6" height="681.6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAqsAAAKrCAYAAADWG8TxAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEZ9JREFUeNrs3DFKHFEcx/FxOxsJ
-6QMBayFVqkAQcgJPoBfwCnqEkAsoOUBOINikkhQL1oIQ6yA2aX0Da1Cj684sO/Pj+fnA29mF3Z2B
-13z5F2/S9HT+c+ewrDcNAACsyKRnqB6Vy0FZp4IVAICYWJ2F6u7s4wfBCgBARKw+CtVGsAIAEBGr
-z4SqYAUAYNxYfSFUBSsAAOPE6oKhKlgBABg2Vs++f+4SqoIVAIBhYvVkf/Po5tfV7t/LP33+V7AC
-ALCaWG1DtZlNVG/OfjeCFQCAiFi9H6p3BCsAAKPH6lOhKlgBABg9VueFqmAFAGC0WF0kVAUrAACD
-x2oJ1cOm4/FUghUAgEFitayvZU27/lCwAgCw8lj98u3iuly3BSsAAHGx2r4IVgAAYmNVsAIAEB2r
-ghUAgOhYFawAAETHqmAFACA6VgUrAADRsSpYAQCIjlXBCgBAdKwKVgAAomNVsAIAEB2rghUAgOhY
-FawAAETHqmAFACA6VgUrAADRsSpYAQCIjlXBCgBAdKwKVgAAomNVsAIAEB2rghUAgOhYFawAAETH
-qmAFACA6VgUrAADRsSpYAQCIjlXBCgBAdKwKVgAAomNVsAIAEB2rghUAgOhYFawAAETHqmAFACA6
-VgUrAADRsSpYAQCIjlXBCgBAdKwKVgAAomNVsAIAEB2rghUAgOhYFawAAETHqmAFACA6VgUrAADR
-sSpYAQCYpD+gYAUAEKuCVbACAIhVwQoAQHWxKlgBAMSqYBWsAABiVbACAFBlrApWAACxKlgFKwCA
-WBWsAABUGauCFQBArApWwQoAIFYFKwAAVcaqYAUAEKuCVbACAIhVwQoAIFarJVgBAMSqYBWsAABi
-VbACAIhVwSpYAQDEqmAFAECsClYAALEqWAUrAIBYFawAAGJVsApWAACxKlgBABCrghUAQKwKVsEK
-ACBWBSsAgFgVrIIVAECsClbBCgAgVgUrAIBYFayCFQBArApWAACxKlgFKwCAWBWsghUAQKwKVgAA
-sSpYBSsAgFgVrAAAYlWwClYAALEqWAUrACBWEawAAGJVsApWAACxKlgBAMQqghUAQKwKVsEKAIhV
-BCsAgFgVrIIVAECsClYAALGKYAUAEKuCVbACAGIVwQoAIFYFq2AFABCrglWwAgBiFcEKACBWBatg
-BQDEKoIVAECsClbBCgAgVgWrYAUAxCqCFQBArApWwQoAiFUEKwCAWBWsghUAQKwKVsEKAIhVBCsA
-gFgVrIIVABCrCFYAALGKYAUAxCqCVbACAGIVwQoAIFYFq2AFAMQqghUAQKwiWAEAsYpgFawAgFhF
-sAIAiFXBKlgBALGKYBWsAIBYRbACAGIVwSpYAQCximAFABCrglWwAgBiFcEqWAEAsYpgBQDEKoJV
-sAIAYhXBCgAgVgWrYAUAxCqCVbACAGIVwQoAiFUEq2AFAMQqghUAQKwiWAEAsYpgFawAgFhFsAIA
-YhXBKlgBALGKYAUAxCoIVgBArCJYBSsAIFYRrACAWEWwClYAQKwiWAUrAIhVEKwAgFhFsApWAECs
-IlgBALGKYBWsAIBYRbAKVgAQqyBYAQCximAVrACAWEWwAgBiFcEqWAEAsYpgFawAIFZBsAIAYhXB
-KlgBALGKYAUAxCoIVgBArCJYBSsAiFUQrACAWEWwClYAQKwiWAEAsQqCFQAQqwhWwQoAYhUEKwAg
-VhGsghUAEKsIVjsAAGIVBCsAIFYRrIIVAMQqCFYAQKwiWAUrAIhVEKyCFQDEKghWAECsIlgFKwCI
-VRCsAIBYRbAKVgAQqyBYBSsAiFUQrACAWEWwClYAEKsgWAEAsQqCFQDEKghWwQoAYhUEKwAgVhGs
-ghUAxCoIVgBArIJgBQCxCoJVsAKAWAXBCgCIVQSrYAUAsQqCFQAQqyBYAUCsgmAVrAAgVkGwAgBi
-FcEqWAFArIJgFawAIFZBsAKAWAXBKlgBQKyCYAUAsQqCVbACgFgFwSpYAUCsgmAFALEKglWwAoBY
-BcEKAGIVEKwAIFZBsApWABCrIFgBQKyCYBWsACBWQbACgFgFBCsAiFUQrIIVAMQqCFYAEKsgWAUr
-AIhVEKwAIFYBwQoAYhUEq2AFALEKghUAxCoIVsEKAGIVBKtgBUCsAoIVAMQqCFbBCgBiFQQrAIhV
-EKyCFQDEKghWwQqAWAUEKwCIVRCsghUAsQoIVgAQq4BgBQCxCoJVsAIgVgHBCgBiFQSrYAVArAKC
-FQDEKiBYAUCsgmAVrACIVUCwAoBYBcEqWAEQq4BgBQCxCghWABCrIFgFKwBiFRCsACBWQbAKVgDE
-KiBYBSsAYhUQrAAgVkGwClYAxCogWAFArIJgFawAiFVAsApWAMQqIFgBQKyCYBWsAIhVQLACgFgF
-BCsAYhUQrIIVALEKCFYAEKsgWAUrAGIVEKwAIFYBwQqAWAUEq2AFQKwCghUAsQoIVsEKgFgFBCsA
-iFVAsAIgVgHBKlgBEKuAYAVArAKCVbACIFYBwSpYARCrgGAFQKwCglWwAiBWAcEKgFgFBKtgBUCs
-AoJVsAIgVgHBCoBYBQSrYAVArAKCFQCxCiBYARCrgGAVrACIVUCwAiBWAcEqWAEQq4BgBUCsAghW
-AMQqIFgFKwBiFRCsAIhVQLAKVgDEKiBYARCrAIIVALEKCFbBCiBWAQQrAGIVEKyCFQCxCghWwQog
-VgEEKwBiFRCsghVArAIIVgDEKiBYBSsAYhUQrIIVQKwCCFYAxCogWAUrgFgFEKwAiFUAwQqAWAUE
-q2AFEKsAghUAsQoIVsEKIFYBBCsAYhVAsAIgVgHBKlgBxCqAYAVArAKCVbACiFUAwQqAWAUQrACI
-VUCwClYAsQogWAEQq4BgFawAYhVAsApWALEKIFgBxCqAYBWsAGIVQLACIFYBwSpYAcQqgGAVrABi
-FUCwAohVAMEqWAHEKoBgBUCsAghWALEKIFgFK4BYBRCsAGIVQLAKVgCxCiBYARCrAIIVQKwCCFbB
-CiBWAQQrgFgFEKyCFUCsAghWAMQqgGAFEKsAglWwAohVAMEKIFYBBKtgBRCrAIJVsAKIVQDBCiBW
-AQSrYAUQqwCCFUCsAghWwQogVgEEq2AFEKsAghVArAIIVsEKIFYBBCuAWAUQrIIVQKwCCFbBCohV
-AAQrgFgFEKyCFUCsAghWALEKgGAFEKsAglWwAmIVAMEKIFYBBKtgBRCrAIIVQKwCIFgBxCqAYBWs
-gFgFQLACiFUAwSpYAcQqgGAVrIBYBUCwAohVAMEqWAGxCoBgBRCrAIJVsAKIVQDBKlgBsQqAYAUQ
-qwCCVbACYhUAwQogVgEEq2AFEKsAglWwAmIVAMEKIFYBBKtgBcQqAIIVQKwCIFgBsQqAYBWsgFgF
-QLACiFUAwSpYAbEKgGAFEKsACFZArAIgWAUrIFYBEKwAYhVAsApWQKwCIFgFKyBWARCsgFgFQLAK
-VkCsAiBYAcQqgGAVrIBYBUCwClZArAIgWAGxCoBgFayAWAVAsAKIVQDBKlgBsQqAYBWsgFgFQLAC
-YhUAwSpYAbEKgGAFEKsACFZArAIgWAUrIFYBEKyAWAVAsApWQKwCIFgBsQoAghUQqwAIVsEKiFUA
-BCsgVgEQrIIVEKsACFbBCmIVAAQrIFYBEKyCFRCrAAhWQKwCIFgFKyBWARCsghXEKgAIVkCsAiBY
-BSsgVgEQrIBYBUCwClZArAIgWAUriFUAEKyAWAVAsApWQKwCIFgBsQoAghUQqwAIVsEKYhUABCsg
-VgEQrIIVEKsACFZArAKAYAXEKgCCVbCCWAUAwQqIVQAEq2AFxCoAgtUOgFgFAMEKiFUABKtgBbEK
-AIIVEKsACFbBCmIVAASrYAWxCgCCFRCrAAhWwQpiFQAEKyBWARCsghXEKgAIVsEKYhUABCsgVgEQ
-rIIVxCoACFZArAKAYAWxCgCCVbCCWAUAwQqIVQAEq2AFsQoAghUQqwAgWEGsAoBgFawgVgFAsAJi
-FQDBKlhBrAKAYAXEKgAIVhCrACBYBSuIVQAQrIBYBUCwClYQqwAgWAUriFUAEKwgVgFAsApWEKsA
-IFhBrAKAYBWsIFYBQLAKVhCrACBYQawCgGAVrCBWAUCwglgFAAQriFUAEKyCFcQqAAhWEKsAIFgF
-K4hVABCsIFYBAMEKYhUABKtgBbEKAIIVxCoACFbBCmIVAAQriFUAQLCCWAUAwSpYQawCgGAFsQoA
-glWwglgFAMEqWBGrAIBgBbEKAIJVsIJYBQDBCmIVAASrYAWxCgCCVbAiVgEAwQpiFQAEq2BFrAIA
-ghXEKgAgWEGsAoBgFayIVQBAsIJYBQDBKlgRqwCAYAWxCgAIVhCrACBYBStiFQAQrCBWAUCwClbE
-KgAgWEGsAgCCFcQqAAhWwYpYBQAEK4hVABCsghWxCgAIVsGKWAUABCuIVQAQrIIVsQoACFYQqwAg
-WAUrYhUAEKyCFbEKAAhWEKsAIFgFK2IVABCsIFYBAMGKWAUABKtgRawCAIIVxCoACFbBilgFAAQr
-iFUAQLAiVgEAwSpYEasAgGBFrAIAglWwIlYBAMEKYhUAEKyIVQBAsApWxCoAIFgRqwCAYBWsiFUA
-QLAKVsQqACBYEasAgGAVrIhVAECwIlYBAMEqWBGrAIBgFayIVQBAsCJWAQDBKlgRqwCAYEWsAgAI
-VsQqACBYBStiFQAQrIhVAECwClbEKgAgWBGrAACCFbEKAAhWwYpYBQAEK2IVABCsghWxCgAIVsQq
-AIBgRawCAIJVsIpVAADBilgFAASrYEWsAgCCVbCKVQAAwYpYBQAEq2AVqwAAghWxCgAIVsGKWAUA
-BKtgFasAAIIVsQoACFbBKlYBAAQrYhUAQLAiVgEAwSpYxSoAgGBFrAIAglWwilUAAMGKWAUAEKyI
-VQBAsApWsQoAIFgRqwCAYBWsYhUAQLAiVgEABCtiFQAQrIJVrAIACFbEKgAgWAWrWAUAEKyCVawC
-AAhWsQoAIFgFq1gFABCsiFUAQLAKVrEKACBYBatYBQAQrGIVAECwClaxCgAgWBGrAACCVawCAAhW
-wSpWAQAEq1gFABCsglWsAgAIVsQqAIBgFasAAIJVsIpVAADBKlYBAASrYBWrAACCFbEKACBYxSoA
-gGAVrGIVAECwilUAAMEqWMUqAIBgFaxiFQBAsIpVAADBKljFKgCAYBWrAACCVbCKVQAAwSpYxSoA
-gGAVqwAAglWwilUAAMEqVgEABKtgFasAAIL19QarWAUAEKxiFQBAsApWsQoAIFjFKgAAglWsAgAI
-1lcbrGIVAECwilUAAMEqWMUqAIBgrSZYxSoAgGAVqwAAglWwilUAAMFaTbCKVQAAwSpWAQAQrGIV
-AECwVhOsYhUAQLCKVQAABKtYBQAQrNUEq1gFABCsscEqVgEABGtssIpVAADBGhusYhUAQLDGBqtY
-BQAQrLHBKlYBAARrbLCKVQAAwRobrGIVAECwxgarWAUAEKyxwSpWAQAEa2ywilUAAMEaG6xiFQBA
-sMYGq1gFABCsscEqVgEABGtssIpVAADBGhusYhUAQLDGBqtYBQAQrLHBKlYBAARrbLCKVQAAwRob
-rGIVAECwxgarWAUAEKyxwSpWAQAEa2ywilUAAMEaG6xiFQBAsMYGq1gFABCsscEqVgEABGtssIpV
-AADBGhusYhUAQLDGBqtYBQAQrLHBKlYBAARrbLCKVQAAwRobrGIVAECwxgarWAUAIDZYxSoAALHB
-KlYBAIgNVrEKAEBssIpVAABig1WsAgAQG6xrtgEAgHlO9jfbcDydhWQnGx/fNevv3/a5bRvI2yar
-AADMNdKEdbr16ce1WAUAIC1Yj0uo7rVvxCoAAEnB+i9UxSoAAEnB+iBUxSoAACnB+l+oilUAABKC
-9clQFasAAIwdrM+Gass5qwAALGWJc1iPS/DuzfuCySoAAEvpOWF9MVTFKgAAYwTrQqEqVgEAGDpY
-Fw5VsQoAwJDB2ilUxSoAAEMFa+dQbTkNAACAlbh3SsC0T6gCAMAQwdrbrQADAK/CigtijnhaAAAA
-AElFTkSuQmCC" transform="matrix(1 0 0 1 979.4727 973.4253)"/>
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEaZJREFUeNrs3DFqFFEAx+G329mI
+2AsBa8HKSpBATpATJBfwCuYIkgskeABPIKSxWiwC1oFArINsk9ZZjBI1u5kZM/P+TL4PHrMMw7DM
+ND/ePF4pPX39vHvQjCcFAAAGMu8ZqkfN4V0zTgQrAABDmfUM1b0bp06bsf3i9cfvHicAANVi9ZZQ
+FawAANSP1Q2hKlgBAKgXqy1CVbACADB+rHYIVcEKAMC92rgbwOLDm66huvKy2CUAAIAhY/XT2+dH
+yy/f9q7OL/vcV7ACAPDfZutCtdyYUX386ll5tPW0z/0tCQAA4P5i9e9QFawAAETE6rpQFawAAFSN
+1btCVbACAFAlVtuGqmAFAGBM8yZUD0rH7amWi4tilwAAAAaP1Wa8Lz9nPDsRrAAADO3XMoBVOJ5c
+h2QnlgQAADBorApWAACiY1WwAgAQHauCFQCA6FgVrAAARMeqYAUAIDpWBSsAANGxKlgBAIiOVcEK
+AEB0rApWAACiY1WwAgAQHauCFQCA6FgVrAAARMeqYAUAIDpWBSsAANGxKlgBAIiOVcEKAEB0rApW
+AACiY1WwAgAQHauCFQCA6FgVrAAARMeqYAUAIDpWBSsAANGxKlgBAIiOVcEKAEB0rApWAACiY1Ww
+AgAQHauCFQCA6FgVrAAARMeqYAUAIDpWBSsAANGxKlgBAIiOVcEKAEB0rApWAACiY1WwAgAQHauC
+FQCA6FgVrAAARMeqYAUAIDpWBSsAALP0PyhYAQDEqmAVrAAAYlWwAgAwuVgVrAAAYlWwClYAALEq
+WAEAmGSsClYAALEqWAUrAIBYFawAAEwyVgUrAIBYFayCFQBArApWAAAmGauCFQBArApWwQoAIFYF
+KwCAWJ0swQoAIFYFq2AFABCrghUAQKwKVsEKACBWBSsAAGJVsAIAiFXBKlgBAMSqYAUAEKuCVbAC
+AIhVwQoAgFgVrAAAYlWwClYAALEqWAEAxKpgFawAAGJVsApWAACxKlgBAMSqYBWsAABiVbACAIhV
+wSpYAQDEqmAVrAAAYlWwAgCIVcEqWAEAxKpgBQAQq4JVsAIAiFXBKlgBALGKYAUAEKuCVbACAIhV
+wQoAIFYRrAAAYlWwClYAQKwiWAEAxKpgFawAAGJVsAIAiFUEKwCAWBWsghUAEKsIVgAAsSpYBSsA
+gFgVrIIVABCrCFYAALEqWAUrACBWEawAAGJVsApWAACxKlgFKwAgVhGsAABiVbAKVgBArCJYAQDE
+qmAVrAAAYlWwClYAQKwiWAEAxKpgFawAgFhFsAIAiFUEKwAgVhGsghUAEKsIVgAAsSpYBSsAIFYR
+rAAAYhXBCgCIVQSrYAUAxCqCFQBArApWwQoAiFUEq2AFAMQqghUAEKsIVsEKAIhVBCsAgFgVrIIV
+ABCrCFbBCgCIVQQrACBWEayCFQAQqwhWAACxKlgFKwAgVhGsghUAEKsIVgBArCJYBSsAIFYRrAAA
+YhXBCgCIVQSrYAUAxCqCFQAQqwhWwQoAiFUEKwAgVkGwAgBiFcEqWAEAsYpgBQDEKoJVsAIAYhXB
+KlgBQKyCYAUAxCqCVbACAGIVwQoAiFUEq2AFAMQqglWwAoBYBcEKAIhVBKtgBQDEKoIVABCrCFbB
+CgCIVQSrYAUAsQqCFQAQqwhWwQoAiFUEKwAgVkGwAgBiFcEqWAFArIJgBQDEKoJVsAIAYhXBCgCI
+VRCsAIBYRbAKVgAQqyBYAQCximAVrACAWEWwegMAIFZBsAIAYhXBKlgBQKyCYAUAxCqCVbACgFgF
+wSpYAUCsgmAFAMQqglWwAoBYBcEKAIhVBKtgBQCxCoJVsAKAWAXBCgCIVQSrYAUAsQqCFQAQqyBY
+AUCsgmAVrAAgVkGwAgBiFcEqWAFArIJgBQDEKghWABCrIFgFKwCIVRCsAIBYRbAKVgAQqyBYAQCx
+CoIVAMQqCFbBCgBiFQQrACBWEayCFQDEKghWwQoAYhUEKwCIVRCsghUAxCoIVgAQqyBYBSsAiFUQ
+rIIVAMQqCFYAEKsgWAUrAIhVEKwAIFYBwQoAYhUEq2AFALEKghUAxCoIVsEKAGIVBCsAiFVAsAKA
+WAXBKlgBQKyCYAUAsQqCVbACgFgFwQoAYhUQrAAgVkGwClYAEKsgWAFArIJgFawAIFZBsApWAMQq
+IFgBQKyCYBWsACBWQbACgFgFwSpYAUCsgmAVrACIVUCwAoBYBcEqWAEQq4BgBQCxCghWABCrIFgF
+KwBiFRCsACBWQbAKVgDEKiBYAUCsAoIVAMQqCFbBCoBYBQQrAIhVEKyCFQCxCghWABCrgGAFALEK
+glWwAiBWAcEKAGIVBKtgBUCsAoJVsAIgVgHBCgBiFQSrYAVArAKCFQDEKghWwQqAWAUEq2AFQKwC
+ghUAxCoIVsEKgFgFBCsAiFVAsAIgVgHBKlgBEKuAYAUAsQqCVbACIFYBwQoAYhUQrACIVUCwClYA
+xCogWAEQq4BgFawAiFVAsAKAWAUEKwBiFRCsghUAsQoIVgDEKiBYBSsAYhUQrIIVALEKCFYAxCog
+WAUrAGIVEKwAiFVAsApWAMQqIFgFKwBiFRCsAIhVQLAKVgDEKiBYARCrAIIVALEKCFbBCoBYBQQr
+AGIVEKyCFQCxCghWAMQqgGAFQKwCglWwAiBWAcEKgFgFBKtgBUCsAoIVALEKIFgBEKuAYBWsAGIV
+QLACIFYBwSpYARCrgGAVrABiFUCwAiBWAcEqWAHEKoBgBUCsAoJVsAIgVgHBKlgBxCqAYAVArAKC
+VbACiFUAwQqAWAUQrACIVUCwClYAsQogWAEQq4BgFawAYhVAsAIgVgEEKwBiFRCsghVArAIIVgDE
+KiBYBSuAWAUQrACIVQDBCoBYBQSrYAUQqwCCFQCxCghWwQogVgEEq2AFEKsAghVArAIIVsEKIFYB
+BCsAYhUQrIIVQKwCCFbBCiBWAQQrgFgFEKyCFUCsAghWAMQqgGAFEKsAglWwAohVAMEKIFYBBKtg
+BRCrAIIVALEKIFgBxCqAYBWsAGIVQLACiFUAwSpYAcQqgGAFQKwCCFYAsQogWAUrgFgFEKwAYhVA
+sApWALEKIFgFK4BYBRCsAGIVQLAKVgCxCiBYAcQqgGAVrABiFUCwClYAsQogWAHEKoBgFawAYhVA
+sAKIVQDBKlgBxCqAYBWsgFgFQLACiFUAwSpYAcQqgGAFEKsACFYAsQogWAUrIFYBEKwAYhVAsApW
+ALEKIFgBxCoAghVArAIIVsEKiFUABCuAWAUQrIIVQKwCCFbBCohVAAQrgFgFEKyCFRCrAAhWALEK
+IFgFK4BYBRCsghUQqwAIVgCxCiBYBSsgVgEQrABiFUCwClYAsQogWAUrIFYBEKwAYhVAsApWQKwC
+IFgBxCoAghUQqwAIVsEKiFUABCuAWAUQrIIVEKsACFYAsQqAYAXEKgCCVbACYhUAwQogVgEEq2AF
+xCoAglWwAmIVAMEKiFUABKtgBcQqAIIVQKwCCFbBCohVAASrYAXEKgCCFRCrAAhWwQqIVQAEK4BY
+BRCsghUQqwAIVsEKiFUABCsgVgEQrIIVEKsACFYAsQqAYAXEKgCCVbACYhUAwQqIVQAEq2AFxCoA
+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
+t+eVKQAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 979.4727 973.4253)"/>
 				<g>
 					<defs>
 						<path id="SVGID_41_" d="M980.2,988.3l-0.7-0.7c-3.9-3.9-3.9-10.2,0-14.1c3.9-3.9,10.2-3.9,14.1,0l0.7,0.7L980.2,988.3z"/>
@@ -2122,14 +2113,15 @@ AElFTkSuQmCC" transform="matrix(1 0 0 1 979.4727 973.4253)"/>
 					<g clip-path="url(#SVGID_42_)">
 						
 							<image overflow="visible" width="43.1" height="43.1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAYdJREFUeNrU2LFqwzAQAFD16NKl
-lO6FQOdAlnbKYugXdOuWL2j/pT+QP8gXlGbp1EmQLVAoBLIEimkg7diTSUJDLFs6S6fTwWEMOvkh
-kH3yqSLE7O1+hJcnzKI/nJSKMYCIHWMOMKd4fyEW/A+7C3Y0dMAmQUNHLDsaAmBZ0RAIy4a2gl8e
-r0eb+WpMmDMqGmxYs7JrvVQ/n19KEhps2N399/tCFBqasBLR0IaVhgYXrCQ0uGKloGHbdXlFSrQB
-F5g6FzTcPX+UOaGrTZcTev9aywV98OHIAX30aZaOrm1+JKOt7aVUdGMDLxHdekSShnY6hEpCOx/z
-paC9fqRIQJ9QZsCW1BRPt5N5xfntlTrrXVIeaxapAEplopXumSSBE6CrZ/WHE00GM6L3WO9NlwB9
-gA0Cjog+wgYDR0DXYoOCQ6A381UjNji4K3qtl+XvorRio4A7oKuam4dXTeqHmdHVWKxpHRsN7IF2
-xkYHO6C9sCzgBrQ3lg1cgyZhk4RpTTEH1Po/AQYAvaWjcgqMut0AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 951.188 945.1411)"/>
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZJJREFUeNrU2MFKAzEQANDM3hS0
+IngRxAWhN2EvFQQvC36BN2/9Av0Xf6B/4BeU9uLJ04K3giAIXgRZFPRqUqLU2uwmk9nJdCCUtkx4
+GdJ0sqAQ8XB3MdQv13qUx2e3tWIMQGJH9m3FjYYIrEqBhkgsOxoIsKxoIMKyoYEQy4LOXF+Mr46G
+n7PXEWLOQo+pXuwOG9hgTWU/qhf19fSmJKHBhV38bPvkQG3ku5j5ybcHtGGlocEHKwkNvlgpaAjB
+SkBntusKivf752SnhwGXduVrgf7ZwyZ5aidTkrfH4imxFujlc1g8etU/nWg0OHoJsWho6NZEohv7
+YYno1huHNLTXnU4S2vvWLAUd9FxCAjr4yU9qNGCyU6IzTOb5zWOdoMvLzUBVOEGla7slqigwE/oX
+i/rRMaP/YMnAHaH/YUnBxOiVWHJwLHqr2Feb/T0nthNwJLrunR6Wg8tJ1XRrJg/kOT3PacJ2VmFE
+pedYvdDWBXYK9kR7Y1nALeggLBvYgQ7GsoKX0DkGmyQMWo8Cm/8twABa+BIWVHyW5wAAAABJRU5E
+rkJggg==" transform="matrix(1 0 0 1 951.188 945.1411)"/>
 					</g>
 				</g>
 			</g>
@@ -2156,60 +2148,60 @@ UwlA2q87VgAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 3798.0166 1609.7354)"/>
 				</g>
 				
 					<image overflow="visible" width="271" height="1441.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAAWiCAYAAADbR714AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEfBJREFUeNrs3UFqG1ccwOEZjWwI
-dYgb6tJCoG4h0F2dEzQhK0MW7j5Q6wSpD2BC8QXaEygFH6ALg1cm7g1cSleFVrt2qa4Klm11xogk
-pgl6b+RKnnnfR4I2TxI8ox//N5LlfP/gaJxNc5Zlo19OsxC93c08A5LQCVo1tlGAgABzDwiAgAAC
-AggIICCAgAAICCAggIAAAgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAgg
-IAACAggIICCAgAACAiAggIAAAgIICICAAPMJSG6jABMIICCAgAACAggIgIAAAgIICCAgAAICCAgg
-IICAAAICICCAgAACAggIgIAAAgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAA
-CAggIICAAAICCAiAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAg
-gIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAAC
-AiAggIAAAgIICCAgAAICCAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCA
-gAACAggIgIAAAgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAIC
-CAiAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICA
-AAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgII
-CCAgAAICCAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAA
-AgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggI
-ICCAgAAICCAgQLsCktsowAQCCAggIICAAAICICCAgAACAggIgIAAAgIICCAggIAACAggIICAAAIC
-ICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggIICAAAgIICCAggIAAAgIgIICA
-AAICCAiAgAACAggIICCAgAAICCAggIAAAgIgIICAAAICCAggIAACAggIICCAgAACAiAggIAAAgII
-CICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICAAAgIICCAgAACAggIgIAA
-AgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAAAgIICCAggIAACAggIICAAAICICCAgAACAggI
-ICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAAC
-AggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICCAgg
-IICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAIC
-CAggIICAAAICICCAgAACAggIQGRAchsFmEAAAQEEBBAQQEAABAQQEEBAAAEBEBBAQAABAQQEEBAA
-AQEEBBAQQEAABAQQEEBAAAEBBARAQAABAQQEEBAAAQEEBBAQQEAAAQG4voCMbBRgAgEEBBAQQEAA
-AQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEQEEBAAAEBBAQQEAABAQQEEBBAQAAEBBAQ
-QEAAAQEEBEBAAAEBBARIMiC5jQJMIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAIC
-CAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAg
-AAICCAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIICAAAgII
-CCAggIAACAggIICAAAICCAiAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCA
-gAAICCAggIAAAgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggI
-ICCAgAACAnBtARnbJ8AEAggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAg
-gIAAAgIICCAgAAICCAggIICAAAgIICCAgAACAggIgIAANyAguX0CTCCAgAACAggIICAA/0NAxvYJ
-MIEAAgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAAC
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEe9JREFUeNrs3MFqXFUAx+Fz504C
+xZRGsaJQMAoFd6ZPYEpXhS7ivqB5grYPUIrkAdQnSIQ8gItAVqHxDVK0K6HNTpdxJWSSjPcOQzTS
+mnPuxJnce76PltncJHDK/PjfmWmKre3dYbjIcQiDn49CjLWn94sAZKEXddXQQQECAkw9IAACAggI
+ICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICA
+AAgIICCAgAACAggIgIAAAgIICCAgAAICTCcghYMCLBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBA
+AAEBBARAQAABAQQEEBAAAQEEBBAQQEAAAQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEQ
+EEBAAAEBBAQQEAABAQQEEBBAQAAEBBAQQEAAAQEEBEBAAAEBBAQQEAABAQQEEBBAQAABARAQQEAA
+AQEEBBAQAAEBBAQQEEBAAAQEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQE
+QEAAAQEEBBAQQEAABAQQEEBAAAEBEBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARAQAAB
+AQQEEBAAAQEEBBAQQEAAAQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEQEEBAAAEBBAQQ
+EAABAQQEEBBAQAAEBBAQQEAAAQEEBEBAAAEBBAQQEEBAAAQEEBBAQAABARAQQEAAAQEEBBAQAAEB
+BAQQEEBAAAQEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQEQEAAAQEEBBAQ
+QEAABAQQEEBAAAEBEBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARAQAABAQQEEBAAAQEE
+BBAQQEAAAQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEQEEBAAAEBBAQQEAABAQQEEBBA
+QAABARAQQECAbgWkcFCABQIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAggIAAAgIg
+IICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAggIAA
+AgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggI
+gIAAAgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAAC
 AggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAggIAAAgIgIICAAAICCAgg
-IAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAIC
-CAggIICAAAgIICBAswKS2yjABAIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAggIAA
-AgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAg
-gIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICAAAICICCAgAAC
-AggIgIAAAgIICCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiA
-gAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAggIAAAgIgIICAAAIC
-CAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAggIAAAgIICICA
-AAICCAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAAAgII
-CCAggIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggIICAA
-AgIICCAggIAAAvIWuX0CTCCAgAACAiQQkPFobKeAegHJ3wu/jNrfO3xoW0FA6lq1rSAgVxXBK7+0
-rZBOQE6CjjG3glvjCAMJBWQYFpDg6yAb/b3DDVsLJpDXAbkd9XnUZ7YW0gjIz0ELV6Kut26VU4iL
-qZBAQI6DVhbl4rvBEani8dz2Qrtdnkv2D47+KG/Wpy2++PsiO//9LObxH/R2N09sM7R3Aqn8GLT4
-Tifm7dxK31EG2h+QH0LvUHwYVZDq3ZiXIgItDsjTJ4+rY8Yg6A5rRewUIiLQ8gkkfAopoqcQEYEE
-AvIi+E4fFVm+HP09ZSICbQ1IeYwZxESk+KRb5/lEBFo6gVS+Db1jvpJnxcdFnecUEWhjQGKnkOoo
-E/HhMhGBlk8gUVPI5VHmXjfmF+1EBNockMkU8l14QbKse39JREBArkwhAxEBogNSTiHVd4T0oh5J
-REBA3ojIcXmzIyLAu0x9pe8fHPXLm+2oRz3PsrPfRtn4n1p/DqL6WP2j3u7m0I8HGjqBvGEnC/zW
-MpMImEDeNoVUL+aXkxe3SQQID4iIADMFRESAmQIiIsBMARERYKaAiAgwU0BEBMhnfQARAQEREWAx
-AREREBARARYXEBEBARERYHEBEREQEBEBFhcQEQEBERFgcQERERAQEQEWFxARAQEREWBxAREREBAR
-AQFZLBEBAREREBARARoYEBEBAREREBARARoaEBEBAREREBARARoaEBEBAREREBARARoaEBEBARER
-EBARAQFpMBEBAREREBARAQERERGB1AIiIiAgIgICIiIgICIiIpBiQEQEBEREQEBEBAREREQEUgyI
+IAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAIC
+CAggIICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAAAgIICCAg
+gIAACAggIICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggIICAAAgII
+CCAggIAAAgIgIICAAAICCAhAYkAKBwVYIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICA
+AAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAFxeQAYOCrBAAAEBBAQQEEBA
+AAQEEBBAQAABARAQQEAAAQEEBBAQAAEBBAQQEEBAAAQEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQ
+EEBAAAEBEBBAQAABAbIMSOGgAAsEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAAB
+AQQEQEAAAQEEBBAQQEAABAQQEEBAAAEBEBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARA
+QAABAQQEEBAAAQEEBBAQQEAAAQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEEBEBAAAEB
+BAQQEAABAQQEEBBAQAABARAQQEAAAQEEBEBAAAEBBAQQEEBAAAQEEBBAQAABARAQQEAAAQEEBBAQ
+AAEBBAQQEEBAAAQEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQEQEAAAQEE
+BBAQQEAALi0gQ+cEWCCAgAACAggIICAAAgIICCAggIAACAggIICAAAICCAiAgAACAggIICAAAgII
+CCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICHAFAlI4J8ACAQQEEBBAQAABAfgfAjJ0ToAF
+AggIICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAgg
+IICAAAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAAAgIICCAggIAA
+CAggIICAAAICICCAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAg
+gIAAAgIgIICAAO0KSOGgAAsEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQE
+QEAAAQEEBBAQQEAABAQQEEBAAAEBEBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARAQAAB
+AQQEEBAAAQEEBBAQQEAAAQEQEEBAAAEBBARAQAABAQQEEBBAQAAEBBAQQEAAAQEEBEBAAAEBBAQQ
+EAABAQQEEBBAQAABARAQQEAAAQEEBEBAAAEBBAQQEEBAAAQEEBBAQAABARAQQEAAAQEEBBAQAAEB
+BAQQEEBAAAQEEBBAQAABAQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQEQEAAAQEEBBAQ
+QEAABAQQEEBAAAEBEBBAQAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARAQAABAQQEEBAAAQEE
+BBAQQEAAAQEQEEBAAAEBBAQQEAABAQQEEBBAQAAEBBAQQEAAAQEEBEBAAAEBBAQQEAABAQQEEBBA
+QAABARAQQEAAAQEEBEBAAAEBBAQQEEBAAAQEEBBAQAABARAQQEAAAQEEBBAQAAEBBAQQEEBAAAQE
+EBBAQAABAQTkDQrnBFgggIAAAgJkEJDhYOikgGYBKd6Jfxl1Y31nxbGCgDS16FhBQM4ro6/8wrFC
+PgHZj7qNuRbdGrcwkFFADuMCEv06yPLG+s6yowUL5O+AXE/6POojRwt5BORF1IULSa+3rlYrxIup
+kEFA9qKuLKuL34uOSB2PZ44Xum10X7K1vfu6eli66OLTP07DyavjlO9/Z+3p/X3HDN1dILUfoy6+
+0Ut5O7e24VYGuh+QH2K/oPwgqSD1uzHPRQQ6fAuTchsTTkIYvDwaPSaob2PuVrczh44curdA4ldI
+mbxCLBHIICCb0V/0YRmK+eTfUyYi0NWAPHxw7yAlIuXH/SY/T0Sgowuk9k3sFxYLRSg/Kpv8TBGB
+LgYkdYXUtzIJHy4TEej4AklaIaNbmVv9lP9oJyLQ5YCMV8h38QUJoX97TkRAQM6tkAMRAf7LW5/x
+W9u7K/UTO+m7nYRw/OsgDP9s9EuYfdgMuhKQcUQeVw/figiQHJBxRDaqh69FBPi3mPdgn4TI31p2
+xmsiYIH8Y4XUT+bn4ye3JQLEB0REgIkCIiLARAEREWCigIgIMFFARASYKCAiAhSTfgMRAQEREWA2
+AREREBARAWYXEBEBARERYHYBEREQEBEBZhcQEQEBERFgdgERERAQEQFmFxARAQEREWB2AREREBAR
+AQGZLREBAREREBARAVoYEBEBAREREBARAVoaEBEBAREREBARAVoaEBEBAREREBARAVoaEBEBARER
+EBARAQFpMREBAREREBARAQERERGB3AIiIiAgIgICIiIgICIiIpBjQEQEBEREQEBEBAREREQEcgyI
 iICAiAgIiIiAgIiIiCAgIiIiICAiAgIiIiAgIiIiCIiIiAgIiIiAgIgICIiIiAgCIiIigoAgIiAg
 IgICIiIigoCIiIggIIgICIiIgICIiIggICIiIgiIiIgIAoKIgICICAiIiIgIAiIiIoKAICIgICIC
 AiIiIoKAiIiIICCICAKCiICAiIiIICAiIiIICCKCgCAiICAiIiIIiIiICAKCiCAgiAgCgoiAgIiI
@@ -2219,25 +2211,25 @@ gCAiCAgiIiICgoiICAKCiCAgiAgCgoiIiIAgIiIiIIiIiCAgiAgCgoggIIiIiAgIIiIiAgIigoAg
 IggIIiIiAoKIiIiAgIggIIgIAoKIiIiAICIiIiAgIgICIoKAICIiIiCIiIgICIiIgICIICCICAKC
 iIiIgCAiIiIgICICAiKCgCAiIiIgiIiICAiIiICAiCAgiIiICAgiIiICAiIiICAiAgIiIiICgoiI
 iICAiAgIiIiAgIggIIiIiAgIIiIiAgIiIiAgIgICIiIiAoKIiIiAgIgICIiIgICIiIiAICIiIiAg
-IgICIiIgICLJRURAEBERERAQEQEBEREQEJEUIiIgiIiICAiIiICAiAgIiEgKEREQREREBAREREBA
-RAQERCSFiAgIiIiAgIgICIhIgyIiICAiAgIiIiAgIg2KiICAiAgIiIiAgIg0KCICAiIiICAiAgIi
-0qCICAiIiICAiAgIiEiDIiIgICICAiIy/4gICIiIgICIzD8iAgIiIiAgIvOPiICAiAgIiMj8IyIg
-ICICAiIy/4gICIiIgICIzD8iAgIiIiAgIvOPiICAiNSOiICAiNSOiICAiNSOiICAiNSOiICAiNSO
-iICAiNSOSMePCW6mp08eVy/iR5MXdbgiy7r3l7L8Vq35YGMSrSACAiLyn4j09w77AgIiUjci22VE
-tqctcg0EGmJB10Qe9HY3TwQERKRORAaTiAwdYcBxJvYp18v/35hAwCQyyyTyaTmFDEwgkPok8nmt
-SeS5CQRMIq8mkdGvp5e3s0whJhBIdRL5bGnmKcQEAglPIhd/nWfnf0aNIVemEBMIJDyJdNaKy2kk
-wpYjDIjIq6NMca8b8zTPBARE5HUE7nayfCn4asZ6f+9wQ0Cg/REJ/l6PzgdRKfhaQKD9EfkqOCBr
-URdCtgQE2h+R4/LmRdDish+dO8E5qI4x6wIC7bcTujBfjcrBQwGBNI4yQVNI5/2oHHwhIJCG78NG
-kPLfSnASNgQE0phCqrd0g97W7dwOfjt3VUAgHcdBq5aDA2ICgYT8FHSKWY779TgBgTQMr/sBq7dy
-BQQSMPlMyPQJZCVqAhEQoD4BAQQEEBBAQAABARAQQEAAAQEEBBAQAAEBBAQQEEBAAAQEEBBAQAAB
-AQQEQEAAAQEEBBAQAAEBBAQQEEBAAAEBEBBAQAABAQQEQEAAAQEEBBAQQEAABAQQEEBAAAEBEBBA
-QAABAQQEEBAAAQEEBBAQQEAABAQQEEBAAAEBBARAQAABAQQEEBAAAQEEBBAQQEAAAQEQEEBAAAEB
-BARAQAABAQQEEBBAQAAEBBAQQEAAAQEQEEBAAAEBBAQQEAABAQQEEBBAQAAEBBAQQEAAAQEEBEBA
-AAEBBAQQEEBAAAQEEBBAQAABARAQQEAAAQEEBBAQAAEBBAQQEEBAAAQEEBBAQAABAQQEQEAAAQEE
-BBAQAAEBBAQQEEBAAAEBEBBAQAABAQQEQEAAAQEEBBAQQEAABAQQEEBAgGa4EBDABAIICCAgAAIC
-CAggIICAAG0wHgkIUFcuIIAjDCAggIAACAggIICAADfJ6VhAABMIICCAgAAICCAggIAAAgIICICA
-AAICCAggIAACAggIICCAgAACAiAggIAAAgIICICAAAICXKdcQAATCCAggIAACAjwTvlS3PquLYNk
-HE9dsRz1NszwXwEGADEJUGMfHcJMAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 3547 169.1836)"/>
+IgICIiIgICLZRURAEBERERAQEQEBEREQEJEcIiIgiIiICAiIiICAiAgIiEgOEREQREREBAREREBA
+RAQERCSHiAgIiIiAgIgICIhIiyIiICAiAgIiIiAgIi2KiICAiAgIiIiAgIi0KCICAiIiICAiAgIi
+0qKICAiIiICAiAgIiEiLIiIgICICAiIy/YgICIiIgICITD8iAgIiIiAgItOPiICAiAgIiMj0IyIg
+ICICAiIy/YgICIiIgICITD8iAgIiIiAgItOPiICAiDSOiICAiDSOiICAiDSOiICAiDSOiICAiDSO
+iICAiDSOSM8/E1xNDx/cq5/Ed8dP6nhlCP3bc6G41mgfLI+jZYGAJdJ4iWxWK2RNQEBEmkZkrYrI
+poCAiDSNyJ0qIvsCAiLSJCIH44i88UVVL6JCi8zghdWl6u9jCwQskUmWyCfVCjmwQCD3JfJZoyXy
+zAIBS+RsiQxeHo0eJ1khFgjkukQ+nZt4hVggkPESOf39JJz8ljRDzq0QCwQyXiK9m+VojSRYdQsD
+InJ2K1Pe6qf8mEduYcDtzDnHvwzCcBD91u7Zp1MtEOjuEon+vR6995NS8JVbGOh+RL6MDsjNpBdC
+VgUEuh+RvephM+riqh+9G9E5WNpY31kSEOi+J7EXFotJOVgREMjjViZqhfTeTcrB5wICefg+boJU
+fxaik7AsIJDHCqnfco36bEjvevQnOxYFBPKxF3XVfHRALBDIyE9RdzHzaZ8tFRDIw+Flf8P6rVwB
+gQyMPxNy8QJZSFogAgI0JyCAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCA
+gAAICCAggIAAAgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAggIAACAggI
+ICCAgAACAiAggIAAAgIICICAAAICCAggIICAAAgIICCAgAACAiAggIAAAgIICCAgAAICCAggIICA
+AAgIICCAgAACAggIgIAAAgIICCAgAAICCAggIICAAAICICCAgAACAggIgIAAAgIICCAggIAACAgg
+IICAAAICCAiAgAACAggIICAAAgIICCAggIAAAgIgIICAAAICCAiAgAACAggIICCAgAAICCAggIAA
+AgIgIICAAAICCAggIAACAggIICCAgAAICCAggIAAAgIICICAAAICCAjQDqcCAlgggIAAAgIgIICA
+AAICCAjQBcOBgABNFQICuIUBBAQQEAABAQQEEBDgKjkaCghggQACAggIgIAAAgIICCAggIAACAgg
+IICAAAICICCAgAACAggIICAAAgIICCAggIAACAggIMBlKgQEsEAAAQEEBEBAgLcq5tKu7zsyyMbe
+hVfMJ70Nc/iXAAMA0Il3im3YC9gAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 169.1836)"/>
 				<g>
 					<defs>
 						<path id="SVGID_39_" d="M3547,170.2v-1c0-5.5,4.5-10,10-10s10,4.5,10,10v1H3547z"/>
@@ -2260,7 +2252,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<g id="tobu_x5F_skytree_1_">
 			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M3957.9,2031H4091c5.5,0,10-4.5,10-10v-72"/>
 		</g>
-		<g id="tobu_x5F_skytree_x5F_through_x5F_hanzomon_1_">
+		<g id="tobu_x5F_skytree">
 			<path fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" d="M3815,1616.8h45.7c5.5,0,13.2,3.2,17.1,7.1
 				l226.2,226.8c3.9,3.9,7.1,11.6,7.1,17.1v71.2c0,5.5,2.3,10,5.2,10.1c2.8,0,5.2,4.6,5.2,10.1v55"/>
 			<path opacity="0.5" fill="none" stroke="#9F83B6" stroke-width="20" stroke-linecap="round" d="M3815,1616.8h45.7
@@ -2268,19 +2260,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="10" stroke-linecap="round" d="M3815,1616.8h45.7c5.5,0,13.2,3.2,17.1,7.1
 				l226.2,226.8c3.9,3.9,7.1,11.6,7.1,17.1v71.2c0,5.5,2.3,10,5.2,10.1c2.8,0,5.2,4.6,5.2,10.1v55"/>
 		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
-			<line fill="none" stroke="#31B495" stroke-width="15" stroke-linecap="round" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
-			
-				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="1665.2" y1="500.6" x2="1089.5" y2="1076.3"/>
-		</g>
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
-			<line fill="none" stroke="#AAA7A6" stroke-width="15" stroke-linecap="round" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
-			
-				<line opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="square" stroke-dasharray="30,50" x1="1088.9" y1="1077.9" x2="833.2" y2="1077.6"/>
-		</g>
-		<g id="tobu-kameido">
+		<g id="tobu_x5F_kameido">
 			<path fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" d="M4221,2227v-268c0-5.5-4.5-10-10-10h-38"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="14" stroke-linecap="round" d="M4221,2227v-268c0-5.5-4.5-10-10-10h-38"/>
 		</g>
@@ -2290,15 +2270,17 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M2673,1925.2v-96.3c0-5.5-3.2-13.2-7.1-17.1
 				l-156.6-156.6c-3.9-3.9-11.6-7.1-17.1-7.1H1652"/>
 		</g>
-	</g>
-	<g id="tokyo_x5F_monorail">
-		<path fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" d="M3546,3170v170c0,5.5-3.2,13.2-7.1,17.1
-			l-442.9,442.9c-3.9,3.9-2.6,7.1,2.9,7.1h359"/>
-		<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M3546,3170v170c0,5.5-3.2,13.2-7.1,17.1
-			l-442.9,442.9c-3.9,3.9-2.6,7.1,2.9,7.1h359"/>
+		<g id="tobu_x5F_taishi">
+			<line fill="none" stroke="#FFFFFF" stroke-width="17" stroke-linecap="round" x1="3556" y1="1165" x2="3497" y2="1224"/>
+			<line fill="none" stroke="#7C7B7C" stroke-width="15" stroke-linecap="round" x1="3556" y1="1165" x2="3497" y2="1224"/>
+		</g>
+		<g id="tobu_x5F_noda">
+			<path fill="none" stroke="#7C7B7C" stroke-width="20" stroke-linecap="round" d="M4941,2381V1086.8c0-5.5-3.2-13.2-7.1-17.1
+				l-834.5-834.5c-3.9-3.9-11.6-7.1-17.1-7.1H2042c-5.5,0-13.2,3.2-17.1,7.1l-191.1,191.1"/>
+		</g>
 	</g>
 </g>
-<g id="linename">
+<g id="line_x5F_name">
 	<g>
 		<text transform="matrix(0.75 0 0 1 2939 2869.9434)" fill="#1F8C43" font-family="'mplus-2p-bold'" font-size="18">千代田線</text>
 		
@@ -2654,12 +2636,12 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 4299.167 1567.8994)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">常磐線各停</tspan></text>
 		<text transform="matrix(0.75 0 0 1 4299.167 1567.8994)"><tspan x="0" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18">常磐線各停</tspan></text>
 	</g>
-	<g>
+	<g id="半蔵門線">
 		<text transform="matrix(0.75 0 0 1 4142 2351)"><tspan x="0" y="0" fill="#1F8C43" font-family="'mplus-2p-bold'" font-size="18">半</tspan><tspan x="0" y="18" fill="#1F8C43" font-family="'mplus-2p-bold'" font-size="18">蔵</tspan><tspan x="0" y="36" fill="#1F8C43" font-family="'mplus-2p-bold'" font-size="18">門</tspan><tspan x="0" y="54" fill="#1F8C43" font-family="'mplus-2p-bold'" font-size="18">線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 4142 2351)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="18">半</tspan><tspan x="0" y="18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="18">蔵</tspan><tspan x="0" y="36" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="18">門</tspan><tspan x="0" y="54" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="18">線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 4142 2351)"><tspan x="0" y="0" fill="#9F83B6" font-family="'mplus-2p-bold'" font-size="18">半</tspan><tspan x="0" y="18" fill="#9F83B6" font-family="'mplus-2p-bold'" font-size="18">蔵</tspan><tspan x="0" y="36" fill="#9F83B6" font-family="'mplus-2p-bold'" font-size="18">門</tspan><tspan x="0" y="54" fill="#9F83B6" font-family="'mplus-2p-bold'" font-size="18">線</tspan></text>
 	</g>
-	<g>
+	<g id="京成本線_3_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 3593.3008 1686.7671)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成本線</text>
 			
@@ -2687,7 +2669,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 5117.6367 1703.2231)" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">京成成田スカイアクセス線</text>
 		<text transform="matrix(0.75 0 0 1 5117.6367 1703.2231)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成成田スカイアクセス線</text>
 	</g>
-	<g>
+	<g id="北総線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 5146.1875 1664.6172)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">北総線</text>
 			
@@ -2697,8 +2679,8 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="5117.6" y="1649.8" fill="#23B9E3" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 5121.6367 1664.5752)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">HS</text>
 	</g>
-	<g>
-		<g>
+	<g id="東武野田線__xFF08_アーバンパークライン_xFF09__1_">
+		<g id="東武野田線__xFF08_アーバンパークライン_xFF09_">
 			<text transform="matrix(0.75 0 0 1 4970.0156 1981.8662)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武野田線</tspan><tspan x="-9" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">（アーバンパークライン</tspan><tspan x="189" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.75 0 0 1 4970.0156 1981.8662)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東武野田線</tspan><tspan x="-9" y="18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">（アーバンパークライン</tspan><tspan x="189" y="18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.75 0 0 1 4970.0156 1981.8662)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武野田線</tspan><tspan x="-9" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">（アーバンパークライン</tspan><tspan x="189" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
@@ -2706,7 +2688,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="4941.4" y="1967" fill="#4EBDC0" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 4945.416 1981.8237)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TD</text>
 	</g>
-	<g>
+	<g id="東武野田線_xFF08_アーバンパークライン_xFF09_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2122.605 261.4258)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武野田線（アーバンパークライン</tspan><tspan x="288" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.75 0 0 1 2122.605 261.4258)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東武野田線（アーバンパークライン</tspan><tspan x="288" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
@@ -2715,7 +2697,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="2094" y="246.6" fill="#4EBDC0" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 2098.0063 261.3828)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TD</text>
 	</g>
-	<g>
+	<g id="東武野田線_xFF08_アーバンパークライン_xFF09__1_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 3841.3027 261.4258)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武野田線（アーバンパークライン</tspan><tspan x="288" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.75 0 0 1 3841.3027 261.4258)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東武野田線（アーバンパークライン</tspan><tspan x="288" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
@@ -2724,7 +2706,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="3812.7" y="246.6" fill="#4EBDC0" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 3816.7031 261.3828)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TD</text>
 	</g>
-	<g>
+	<g id="新京成線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5073.7266 1848.6113)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">新京成線</text>
@@ -2748,7 +2730,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 4921.333 2555.3765)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">京葉線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 4921.333 2555.3765)"><tspan x="0" y="0" fill="#BE2F39" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#BE2F39" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#BE2F39" font-family="'mplus-2p-medium'" font-size="18">京葉線</tspan></text>
 	</g>
-	<g>
+	<g id="京成本線_2_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 4480.9707 1933.8921)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成本線</text>
 			
@@ -2758,7 +2740,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="4452.4" y="1918" fill="#0B5FA6" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 4456.6846 1932.8496)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KS</text>
 	</g>
-	<g>
+	<g id="京成本線_1_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 5354.123 2417.7563)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成本線</text>
 			
@@ -2768,7 +2750,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="5325.5" y="2401.9" fill="#0B5FA6" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 5329.8369 2416.7139)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KS</text>
 	</g>
-	<g>
+	<g id="東葉高速線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 5395.1621 2155.8911)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東葉高速線</text>
 			
@@ -2778,7 +2760,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="5366.6" y="2140" fill="#4BB041" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 5370.7734 2154.8486)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TR</text>
 	</g>
-	<g>
+	<g id="つくばエクスプレス_1_">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3782.0879 1848.8174)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">つくばエクスプレス</text>
@@ -2792,7 +2774,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3765.4824 1830.7363)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TX</text>
 	</g>
-	<g>
+	<g id="つくばエクスプレス">
 		<g>
 			<text transform="matrix(0.75 0 0 1 4197.3984 1348.0068)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">つくばエクスプレス</text>
 			
@@ -2802,7 +2784,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="4168.8" y="1332.1" fill="#E72119" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 4172.8721 1346.9639)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TX</text>
 	</g>
-	<g>
+	<g id="東武スカイツリーライン">
 		<g>
 			
 				<text transform="matrix(0.3536 0.3536 -0.7071 0.7071 4040.2539 1763.748)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武スカイツリーライン</text>
@@ -2816,7 +2798,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 4023.9023 1745.9238)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TS</text>
 	</g>
-	<g>
+	<g id="京成押上線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 4195.3467 1796.3403)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成押上線</text>
@@ -2845,7 +2827,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 5856.6816 2714.2666)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">成田線</tspan></text>
 		<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 5856.6816 2714.2666)"><tspan x="0" y="0" fill="#3EB373" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#3EB373" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#3EB373" font-family="'mplus-2p-medium'" font-size="18">成田線</tspan></text>
 	</g>
-	<g>
+	<g id="山万ユーカリが丘線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5873.3408 2038.0664)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">山万ユーカリが丘線</text>
@@ -2855,21 +2837,21 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5873.3408 2038.0664)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">山万ユーカリが丘線</text>
 		</g>
 	</g>
-	<g>
-		<g>
+	<g id="東成田線_1_">
+		<g id="東成田線">
 			<text transform="matrix(0.75 0 0 1 6229 1893.2017)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東</tspan><tspan x="0" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">成</tspan><tspan x="0" y="36" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">田</tspan><tspan x="0" y="54" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 			<text transform="matrix(0.75 0 0 1 6229 1893.2017)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東</tspan><tspan x="0" y="18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">成</tspan><tspan x="0" y="36" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">田</tspan><tspan x="0" y="54" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 			<text transform="matrix(0.75 0 0 1 6229 1893.2017)"><tspan x="0" y="0" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">東</tspan><tspan x="0" y="18" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">成</tspan><tspan x="0" y="36" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">田</tspan><tspan x="0" y="54" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 		</g>
 	</g>
-	<g>
-		<g>
+	<g id="芝山線">
+		<g id="芝山線_1_">
 			<text transform="matrix(0.75 0 0 1 6230 2043.8921)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">芝</tspan><tspan x="0" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">山</tspan><tspan x="0" y="36" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 			<text transform="matrix(0.75 0 0 1 6230 2043.8921)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">芝</tspan><tspan x="0" y="18" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">山</tspan><tspan x="0" y="36" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 			<text transform="matrix(0.75 0 0 1 6230 2043.8921)"><tspan x="0" y="0" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">芝</tspan><tspan x="0" y="18" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">山</tspan><tspan x="0" y="36" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">線</tspan></text>
 		</g>
 	</g>
-	<g>
+	<g id="京成本線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 6273.4688 1814.7402)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京成本線</text>
 			
@@ -2896,8 +2878,8 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 3316.333 946.4004)" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="18">日暮里・舎人ライナー</text>
 		<text transform="matrix(0.75 0 0 1 3316.333 946.4004)" fill="#AD7D20" font-family="'mplus-2p-bold'" font-size="18">日暮里・舎人ライナー</text>
 	</g>
-	<g>
-		<g>
+	<g id="東武スカイツリーライン__xFF08_伊勢崎線_xFF09__1_">
+		<g id="東武スカイツリーライン__xFF08_伊勢崎線_xFF09_">
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3595.8066 1254.9102)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武スカイツリーライン</tspan><tspan x="-9" y="21" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">（伊勢崎線</tspan><tspan x="81" y="21" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3595.8066 1254.9102)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東武スカイツリーライン</tspan><tspan x="-9" y="21" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">（伊勢崎線</tspan><tspan x="81" y="21" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3595.8066 1254.9102)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武スカイツリーライン</tspan><tspan x="-9" y="21" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">（伊勢崎線</tspan><tspan x="81" y="21" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="-8">）</tspan></text>
@@ -2907,7 +2889,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 3579.4551 1237.0859)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TS</text>
 	</g>
-	<g>
+	<g id="東武東上線_1_">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1235.0444 1277.9277)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武東上線</text>
@@ -2931,7 +2913,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 973.4204 2307.0229)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">中央線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 973.4204 2307.0229)"><tspan x="0" y="0" fill="#E6632A" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#E6632A" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#E6632A" font-family="'mplus-2p-medium'" font-size="18">中央線</tspan></text>
 	</g>
-	<g>
+	<g id="西武新宿線_3_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 1561.5405 2208.8921)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武新宿線</text>
 			
@@ -2941,7 +2923,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="1532.9" y="2193" fill="#1599C4" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 1537.6743 2207.8501)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SS</text>
 	</g>
-	<g>
+	<g id="西武新宿線_2_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2609.3027 2174.209)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武新宿線</text>
 			
@@ -2951,7 +2933,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="2580.7" y="2158.3" fill="#1599C4" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 2585.4365 2173.167)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SS</text>
 	</g>
-	<g>
+	<g id="西武池袋線_1_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 784.7285 1913.6421)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武池袋線</text>
 			
@@ -2961,7 +2943,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="756.1" y="1897.8" fill="#ED7019" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 762.4463 1912.6001)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SI</text>
 	</g>
-	<g>
+	<g id="西武有楽町線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2368.7754 1834.5459)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武有楽町線</text>
@@ -2975,7 +2957,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2352.2832 1849.5649)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SI</text>
 	</g>
-	<g>
+	<g id="西武新宿線_1_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 785.7285 2018.9292)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武新宿線</text>
 			
@@ -2985,7 +2967,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="757.1" y="2003.1" fill="#1599C4" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 761.8623 2017.8872)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SS</text>
 	</g>
-	<g>
+	<g id="西武多摩湖線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 710.3213 2103)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武多摩湖線</text>
 			
@@ -2993,7 +2975,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 710.3213 2103)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武多摩湖線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武国分寺線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 708.458 2289.6582)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武国分寺線</text>
 			
@@ -3001,7 +2983,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 708.458 2289.6582)" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">西武国分寺線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武池袋線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2468.3027 1911.8921)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武池袋線</text>
 			
@@ -3016,7 +2998,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 1071.6084 1525.25)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">武蔵野線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 1071.6084 1525.25)"><tspan x="0" y="0" fill="#E5683E" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#E5683E" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#E5683E" font-family="'mplus-2p-medium'" font-size="18">武蔵野線</tspan></text>
 	</g>
-	<g>
+	<g id="西武拝島線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 710.167 2193)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武拝島線</text>
 			
@@ -3024,7 +3006,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 710.167 2193)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武拝島線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武園線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 538.7637 2019)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武園線</text>
 			
@@ -3032,7 +3014,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 538.7637 2019)" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">西武園線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武山口線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 309.8975 1919.7095)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武山口線</text>
 			
@@ -3040,7 +3022,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 309.8975 1919.7095)" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">西武山口線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武狭山線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 383.7061 1876.5098)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武狭山線</text>
 			
@@ -3048,7 +3030,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 383.7061 1876.5098)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武狭山線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武多摩川線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 1031.9033 2499.9316)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武多摩川線</text>
@@ -3062,7 +3044,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 1012.8232 2517.5381)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SW</text>
 	</g>
-	<g>
+	<g id="京王競馬場線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 833.541 2675.9785)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王競馬場線</text>
 			
@@ -3092,7 +3074,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 2372.9331 3720)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">横須賀線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 2372.9331 3720)"><tspan x="0" y="0" fill="#2283BC" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#2283BC" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#2283BC" font-family="'mplus-2p-medium'" font-size="18">横須賀線</tspan></text>
 	</g>
-	<g>
+	<g id="京王線_1_">
 		<g>
 			<text transform="matrix(0.75 0 0 1 1421.835 2654.9102)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王線</text>
 			
@@ -3102,7 +3084,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="1393.2" y="2639" fill="#D61379" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 1396.5288 2653.8682)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KO</text>
 	</g>
-	<g>
+	<g id="京王線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2139.0234 2658.3906)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王線</text>
 			
@@ -3112,7 +3094,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="2110.4" y="2642.5" fill="#D61379" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 2113.7173 2657.3486)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KO</text>
 	</g>
-	<g>
+	<g id="京王井の頭線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1655.252 2446.7754)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王井の頭線</text>
@@ -3126,7 +3108,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1639.7495 2429.7988)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">IN</text>
 	</g>
-	<g>
+	<g id="小田急小田原線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 1799.1475 2854.3652)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">小田急小田原線</text>
 			
@@ -3136,7 +3118,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="1770.5" y="2838.5" fill="#2D8AC3" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 1773.5776 2853.3232)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">OH</text>
 	</g>
-	<g>
+	<g id="東急世田谷線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2178.4131 2898.8027)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急世田谷線</text>
@@ -3149,7 +3131,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<rect x="2159.5" y="2873.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 1668.9418 6455.7393)" fill="#F2C720" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2161.7134 2880.6309)" font-family="'mplus-2p-heavy'" font-size="16">SG</text>
 	</g>
-	<g>
+	<g id="東急田園都市線_1_">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2063.6924 3096.3594)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急田園都市線</text>
@@ -3163,7 +3145,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2045.5625 3113.0156)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">DT</text>
 	</g>
-	<g>
+	<g id="東急東横線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2248.0254 3266.6934)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急東横線</text>
@@ -3177,7 +3159,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2229.8613 3283.3828)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TY</text>
 	</g>
-	<g>
+	<g id="東急目黒線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2309.6914 3313.9355)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急目黒線</text>
@@ -3191,7 +3173,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2290.4414 3331.7109)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">MG</text>
 	</g>
-	<g>
+	<g id="東急池上線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2178.4277 3593.6934)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急池上線</text>
@@ -3205,7 +3187,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 2161.6387 3609.0088)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">IK</text>
 	</g>
-	<g>
+	<g id="東急多摩川線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2046.8379 3550.2334)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急多摩川線</text>
@@ -3219,7 +3201,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2029.4106 3531.3311)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TM</text>
 	</g>
-	<g>
+	<g id="東急大井町線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 1903.8032 3391.8096)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急大井町線</text>
 			
@@ -3229,7 +3211,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="1874.2" y="3376.9" fill="#E9924D" stroke="#FFFFFF" stroke-width="2" width="27.1" height="19"/>
 		<text transform="matrix(0.75 0 0 1 1877.394 3391.7666)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">OM</text>
 	</g>
-	<g>
+	<g id="京急空港線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2915.6147 3811.4541)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京急空港線</text>
 			
@@ -3239,7 +3221,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="2886" y="3796.5" fill="#41BDD9" stroke="#FFFFFF" stroke-width="2" width="27.1" height="19"/>
 		<text transform="matrix(0.75 0 0 1 2890.9097 3811.4111)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KK</text>
 	</g>
-	<g>
+	<g id="京急線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 3175.1289 3321.9541)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京急線</text>
 			
@@ -3261,7 +3243,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 3761.5 3236)" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">ゆりかもめ</text>
 		<text transform="matrix(0.75 0 0 1 3761.5 3236)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">ゆりかもめ</text>
 	</g>
-	<g>
+	<g id="りんかい線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 3761.3906 3341.5215)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">りんかい線</text>
 			
@@ -3280,14 +3262,14 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 4547 3174.334)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="4" font-family="'mplus-2p-medium'" font-size="18">ディズニー</tspan><tspan x="0" y="18" fill="none" stroke="#FFFFFF" stroke-width="4" font-family="'mplus-2p-medium'" font-size="18">リゾートライン</tspan></text>
 		<text transform="matrix(0.75 0 0 1 4547 3174.334)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">ディズニー</tspan><tspan x="0" y="18" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">リゾートライン</tspan></text>
 	</g>
-	<g>
+	<g id="千葉都市モノレール2号線">
 		<g>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5976.8418 2633.6504)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">千葉都市モノレー</tspan><tspan x="144" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">ル2</tspan><tspan x="182.3" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">号線</tspan></text>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5976.8418 2633.6504)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">千葉都市モノレー</tspan><tspan x="144" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">ル2</tspan><tspan x="182.3" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">号線</tspan></text>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5976.8418 2633.6504)"><tspan x="0" y="0" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">千葉都市モノレー</tspan><tspan x="144" y="0" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">ル2</tspan><tspan x="182.3" y="0" fill="#9F9FA0" font-family="'mplus-2p-medium'" font-size="18">号線</tspan></text>
 		</g>
 	</g>
-	<g>
+	<g id="千葉都市モノレール1号線">
 		<g>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5728.0518 2886.3232)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">千葉都市モノレー</tspan><tspan x="144" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">ル1</tspan><tspan x="182.3" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">号線</tspan></text>
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 5728.0518 2886.3232)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">千葉都市モノレー</tspan><tspan x="144" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">ル1</tspan><tspan x="182.3" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">号線</tspan></text>
@@ -3306,7 +3288,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			<text transform="matrix(0.75 0 0 1 2784.5166 563.4502)" fill="none" stroke="#FFFFFF" stroke-width="4" font-family="'mplus-2p-medium'" font-size="18">埼玉高速鉄道線</text>
 		<text transform="matrix(0.75 0 0 1 2784.5166 563.4502)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">埼玉高速鉄道線</text>
 	</g>
-	<g>
+	<g id="東武東上線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2626.3066 1761.4229)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武東上線</text>
@@ -3320,7 +3302,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 2610.167 1745.2246)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">TJ</text>
 	</g>
-	<g>
+	<g id="西武豊島線">
 		<g>
 			
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1939.4414 1843)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武豊島線</text>
@@ -3330,7 +3312,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 1939.4414 1843)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武豊島線</text>
 		</g>
 	</g>
-	<g>
+	<g id="西武新宿線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 786.5068 1286.3535)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">西武新宿線</text>
@@ -3344,7 +3326,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		
 			<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 768.8945 1302.4922)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">SS</text>
 	</g>
-	<g>
+	<g id="京王相模原線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 935.6406 3048.0635)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王相模原線</text>
@@ -3368,7 +3350,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 2030.0474 4311.291)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">東海道線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 2030.0474 4311.291)"><tspan x="0" y="0" fill="#ED8E3F" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#ED8E3F" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#ED8E3F" font-family="'mplus-2p-medium'" font-size="18">東海道線</tspan></text>
 	</g>
-	<g>
+	<g id="京急大師線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2827.1401 3942.8154)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京急大師線</text>
 			
@@ -3378,7 +3360,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="2797.5" y="3927.9" fill="#41BDD9" stroke="#FFFFFF" stroke-width="2" width="27.1" height="19"/>
 		<text transform="matrix(0.75 0 0 1 2802.4351 3942.7725)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">KK</text>
 	</g>
-	<g>
+	<g id="東武亀戸線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 4248.8027 1953.8921)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東武亀戸線</text>
 			
@@ -3543,7 +3525,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.75 0 0 1 888.5718 1091)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">川越線</tspan></text>
 		<text transform="matrix(0.75 0 0 1 888.5718 1091)"><tspan x="0" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#AAA7A6" font-family="'mplus-2p-medium'" font-size="18">川越線</tspan></text>
 	</g>
-	<g>
+	<g id="小田急多摩線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 392.8145 3185.1416)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">小田急多摩線</text>
 			
@@ -3558,7 +3540,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 663.4844 3556.9873)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">横浜線</tspan></text>
 		<text transform="matrix(0.5303 0.5303 -0.7071 0.7071 663.4844 3556.9873)"><tspan x="0" y="0" fill="#9DCA40" font-family="'mplus-2p-medium'" font-size="18">J</tspan><tspan x="9.6" y="0" fill="#9DCA40" font-family="'mplus-2p-medium'" font-size="18" letter-spacing="4">R</tspan><tspan x="25.5" y="0" fill="#9DCA40" font-family="'mplus-2p-medium'" font-size="18">横浜線</tspan></text>
 	</g>
-	<g>
+	<g id="東急田園都市線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 649.7612 3732.3906)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">東急田園都市線</text>
 			
@@ -3568,7 +3550,7 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<rect x="621.2" y="3716.5" fill="#2AA48C" stroke="#FFFFFF" stroke-width="2" width="24.2" height="17.9"/>
 		<text transform="matrix(0.75 0 0 1 625.1621 3731.3496)" fill="#FFFFFF" font-family="'mplus-2p-heavy'" font-size="16">DT</text>
 	</g>
-	<g>
+	<g id="東武大師線">
 		<g>
 			
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 3527.5 1233.168)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">大師線</text>
@@ -3578,14 +3560,14 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.5303 -0.5303 0.7071 0.7071 3527.5 1233.168)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">大師線</text>
 		</g>
 	</g>
-	<g>
+	<g id="多摩都市モノレール">
 		<g>
 			<text transform="matrix(0.75 0 0 1 318.3242 2441.7754)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">多摩都市</tspan><tspan x="0" y="26" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">モノレール</tspan></text>
 			<text transform="matrix(0.75 0 0 1 318.3242 2441.7754)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">多摩都市</tspan><tspan x="0" y="26" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="18">モノレール</tspan></text>
 			<text transform="matrix(0.75 0 0 1 318.3242 2441.7754)"><tspan x="0" y="0" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">多摩都市</tspan><tspan x="0" y="26" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">モノレール</tspan></text>
 		</g>
 	</g>
-	<g>
+	<g id="京王新線">
 		<g>
 			<text transform="matrix(0.75 0 0 1 2282.3032 2659.0479)" fill="#7C7B7C" font-family="'mplus-2p-medium'" font-size="18">京王新線</text>
 			
@@ -4508,6 +4490,43 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 		<circle fill="#FFFFFF" cx="304.4" cy="2931.4" r="5"/>
 		<circle fill="#FFFFFF" cx="304.3" cy="3007.6" r="5"/>
 		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="3497" cy="1224" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1599.6" cy="3522.9" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1471.3" cy="3652.3" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1428.5" cy="3694.7" r="6"/>
+		<ellipse fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1514.1" cy="3608.8" rx="6" ry="5.8"/>
+		<ellipse fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1556.9" cy="3565.4" rx="6" ry="5.8"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1027.7" cy="3748.4" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1114.2" cy="3748.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1287.2" cy="3749.5" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1200.7" cy="3749.1" r="6"/>
+		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="959.9" cy="3856.4" r="6"/>
+		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="1221.5" cy="3959.9" r="6"/>
+		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="1377.9" cy="3959.9" r="6"/>
+		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="732.9" cy="3629.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="674.9" cy="3152.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="750.1" cy="3152.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="825.4" cy="3152.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="900.6" cy="3152.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="206.5" cy="3151.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="508.7" cy="3747.4" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="595.2" cy="3747.7" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="681.7" cy="3748.1" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="768.2" cy="3748.5" r="6"/>
+		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="941.2" cy="3748.4" r="6"/>
+		<circle fill="#FFFFFF" stroke="#1EB2D8" stroke-width="2" cx="2770.1" cy="3684.1" r="6"/>
+		<circle fill="#FFFFFF" stroke="#F4D21F" stroke-width="2" cx="4705" cy="2310.4" r="6"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="854.7" cy="3749.3" r="13.5"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="615.2" cy="3510" r="13.5"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="975.8" cy="3153" r="13.5"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="422.5" cy="3511" r="13.5"/>
+		
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="422.2" cy="3748.9" r="13.5"/>
+		<path fill="#FFFFFF" d="M4041,2051.7c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6c0-3.3,2.7-6,6-6C4038.3,2045.7,4041,2048.4,4041,2051.7z"
+			/>
 	</g>
 	<g id="Lv2__x28_junction_x29_">
 		
@@ -5410,6 +5429,21 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<path fill="none" stroke="#000000" stroke-width="2" d="M2067.2,2797.8c-3.3,0-6,2.7-6,6c0,1.1,0.3,2.1,0.8,3l-12.7,12.7
 					c-0.7-0.3-1.5-0.5-2.3-0.5c-3.3,0-6,2.7-6,6c0,3.3,2.7,6,6,6c3.3,0,6-2.7,6-6c0-0.9-0.2-1.7-0.5-2.5l13-13
 					c0.6,0.2,1.2,0.3,1.8,0.3c3.3,0,6-2.7,6-6C2073.2,2800.5,2070.5,2797.8,2067.2,2797.8z"/>
+			</g>
+		</g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" d="
+			M528.7,3152c0,6.5-5.3,11.8-11.8,11.8l0,0c-6.5,0-11.8-5.3-11.8-11.8v-36.6c0-6.5,5.3-11.8,11.8-11.8l0,0
+			c6.5,0,11.8,5.3,11.8,11.8V3152z"/>
+		<g>
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M308,3104v-12.3c5.9-1.5,10.2-6.8,10.2-13.1
+					c0-7.5-6-13.5-13.5-13.5s-13.5,6-13.5,13.5c0,6,4,11.1,9.4,12.9v12.8c-4.5,1.7-7.8,6-7.8,11.1v36.6c0,6.5,5.3,11.8,11.8,11.8
+					s11.8-5.3,11.8-11.8v-36.6C316.6,3109.9,312.9,3105.4,308,3104z"/>
+			</g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="square" d="M308,3104v-12.3c5.9-1.5,10.2-6.8,10.2-13.1
+					c0-7.5-6-13.5-13.5-13.5s-13.5,6-13.5,13.5c0,6,4,11.1,9.4,12.9v12.8c-4.5,1.7-7.8,6-7.8,11.1v36.6c0,6.5,5.3,11.8,11.8,11.8
+					s11.8-5.3,11.8-11.8v-36.6C316.6,3109.9,312.9,3105.4,308,3104z"/>
 			</g>
 		</g>
 	</g>
@@ -12721,7 +12755,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 2604.7778 3995.8672)" font-family="'mplus-2p-medium'" font-size="25">港町</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1599.6" cy="3522.9" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 1305.0444 3702.5547)" font-family="'mplus-2p-medium'" font-size="25">たまプラーザ</text>
 			<g>
@@ -12732,10 +12765,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 1305.0444 3702.5547)" font-family="'mplus-2p-medium'" font-size="25">たまプラーザ</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1471.3" cy="3652.3" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1428.5" cy="3694.7" r="6"/>
-		<ellipse fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1514.1" cy="3608.8" rx="6" ry="5.8"/>
-		<ellipse fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1556.9" cy="3565.4" rx="6" ry="5.8"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 1422.9609 3659.8877)" font-family="'mplus-2p-medium'" font-size="25">鷲沼</text>
 			<g>
@@ -12776,10 +12805,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 1532.3799 3531.8994)" font-family="'mplus-2p-medium'" font-size="25">梶ヶ谷</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1027.7" cy="3748.4" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1114.2" cy="3748.7" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1200.7" cy="3749.1" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="1287.2" cy="3749.5" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 1266.8779 3785.666)" font-family="'mplus-2p-medium'" font-size="25">江田</text>
 			<g>
@@ -12811,20 +12836,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
-			<g>
-				
-					<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
-			</g>
-			<g>
-				<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
-			</g>
-		</g>
-		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="959.9" cy="3856.4" r="6"/>
-		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="1221.5" cy="3959.9" r="6"/>
-		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="1377.9" cy="3959.9" r="6"/>
-		<circle fill="#FFFFFF" stroke="#9DCA40" stroke-width="2" cx="732.9" cy="3629.7" r="6"/>
-		<g>
 			<text transform="matrix(0.75 0 0 1 745.4844 3639.5)" font-family="'mplus-2p-medium'" font-size="25">成瀬</text>
 			<g>
 				
@@ -12832,6 +12843,16 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<g>
 				<text transform="matrix(0.75 0 0 1 745.4844 3639.5)" font-family="'mplus-2p-medium'" font-size="25">成瀬</text>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
+			<g>
+				
+					<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
+			</g>
+			<g>
+				<text transform="matrix(0.75 0 0 1 993.5874 3785.666)" font-family="'mplus-2p-medium'" font-size="25">青葉台</text>
 			</g>
 		</g>
 		<g>
@@ -12953,7 +12974,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 655.188 3100.374)" font-family="'mplus-2p-medium'" font-size="25">若葉台</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="674.9" cy="3152.7" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 637.1743 3188.583)" font-family="'mplus-2p-medium'" font-size="25">はるひ野</text>
 			<g>
@@ -12964,7 +12984,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 637.1743 3188.583)" font-family="'mplus-2p-medium'" font-size="25">はるひ野</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="750.1" cy="3152.7" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 728.2168 3188.583)" font-family="'mplus-2p-medium'" font-size="25">黒川</text>
 			<g>
@@ -12975,7 +12994,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 728.2168 3188.583)" font-family="'mplus-2p-medium'" font-size="25">黒川</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="825.4" cy="3152.7" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 805.9131 3188.583)" font-family="'mplus-2p-medium'" font-size="25">栗平</text>
 			<g>
@@ -12986,7 +13004,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 805.9131 3188.583)" font-family="'mplus-2p-medium'" font-size="25">栗平</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="900.6" cy="3152.7" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 868.25 3188)" font-family="'mplus-2p-medium'" font-size="25">五月台</text>
 			<g>
@@ -12997,7 +13014,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 868.25 3188)" font-family="'mplus-2p-medium'" font-size="25">五月台</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="206.5" cy="3151.7" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 178.4678 3190.583)" font-family="'mplus-2p-medium'" font-size="25">唐木田</text>
 			<g>
@@ -13008,10 +13024,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 178.4678 3190.583)" font-family="'mplus-2p-medium'" font-size="25">唐木田</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="508.7" cy="3747.4" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="595.2" cy="3747.7" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="681.7" cy="3748.1" r="6"/>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="768.2" cy="3748.5" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 731.5693 3784.6758)" font-family="'mplus-2p-medium'" font-size="25">つくし野</text>
 			<g>
@@ -13052,7 +13064,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 465.2793 3784.6758)" font-family="'mplus-2p-medium'" font-size="25">つきみ野</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#7C7B7C" stroke-width="2" cx="941.2" cy="3748.4" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 913.5874 3784.6758)" font-family="'mplus-2p-medium'" font-size="25">田奈</text>
 			<g>
@@ -13063,7 +13074,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 913.5874 3784.6758)" font-family="'mplus-2p-medium'" font-size="25">田奈</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#1EB2D8" stroke-width="2" cx="2770.1" cy="3684.1" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 2718.7754 3697.75)" font-family="'mplus-2p-medium'" font-size="25">大森</text>
 			<g>
@@ -13084,7 +13094,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 3466.5732 1257.8955)" font-family="'mplus-2p-medium'" font-size="25">大師前</text>
 			</g>
 		</g>
-		<circle fill="#FFFFFF" stroke="#F4D21F" stroke-width="2" cx="4705" cy="2310.4" r="6"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 4617.8906 2321)" font-family="'mplus-2p-medium'" font-size="25">下総中山</text>
 			<g>
@@ -13095,8 +13104,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 4617.8906 2321)" font-family="'mplus-2p-medium'" font-size="25">下総中山</text>
 			</g>
 		</g>
-		<path fill="#FFFFFF" d="M4041,2051.7c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6c0-3.3,2.7-6,6-6C4038.3,2045.7,4041,2048.4,4041,2051.7z"
-			/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 3987.0996 2087.103)" font-family="'mplus-2p-medium'" font-size="25">本所吾妻橋</text>
 			<g>
@@ -14455,8 +14462,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<text transform="matrix(0.75 0 0 1 1324.3193 3797)" font-family="'mplus-2p-bold'" font-size="36">あざみ野</text>
 		</g>
-		
-			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="854.7" cy="3749.3" r="13.5"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 814.0571 3798.5)" font-family="'mplus-2p-bold'" font-size="36">長津田</text>
 			<g>
@@ -14465,8 +14470,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<text transform="matrix(0.75 0 0 1 814.0571 3798.5)" font-family="'mplus-2p-bold'" font-size="36">長津田</text>
 		</g>
-		
-			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="615.2" cy="3510" r="13.5"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 1486.2964 3933.833)" font-family="'mplus-2p-bold'" font-size="36">新横浜</text>
 			<g>
@@ -14483,8 +14486,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<text transform="matrix(0.75 0 0 1 1040.2964 3934.833)" font-family="'mplus-2p-bold'" font-size="36">中山</text>
 		</g>
-		
-			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="975.8" cy="3153" r="13.5"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 920.4531 3130.875)" font-family="'mplus-2p-bold'" font-size="36">新百合ヶ丘</text>
 			<g>
@@ -14499,23 +14500,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 				<text transform="matrix(0.75 0 0 1 325 3086.7715)"><tspan x="0" y="0" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="25">多摩センター</tspan><tspan x="0" y="34" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="25">京王多摩センター</tspan><tspan x="0" y="68" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" font-family="'mplus-2p-bold'" font-size="25">小田急多摩センター</tspan></text>
 			</g>
 			<text transform="matrix(0.75 0 0 1 325 3086.7715)"><tspan x="0" y="0" font-family="'mplus-2p-bold'" font-size="25">多摩センター</tspan><tspan x="0" y="34" font-family="'mplus-2p-bold'" font-size="25">京王多摩センター</tspan><tspan x="0" y="68" font-family="'mplus-2p-bold'" font-size="25">小田急多摩センター</tspan></text>
-		</g>
-		<g>
-		</g>
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" d="
-			M528.7,3152c0,6.5-5.3,11.8-11.8,11.8l0,0c-6.5,0-11.8-5.3-11.8-11.8v-36.6c0-6.5,5.3-11.8,11.8-11.8l0,0
-			c6.5,0,11.8,5.3,11.8,11.8V3152z"/>
-		<g>
-			<g>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M308,3104v-12.3c5.9-1.5,10.2-6.8,10.2-13.1
-					c0-7.5-6-13.5-13.5-13.5s-13.5,6-13.5,13.5c0,6,4,11.1,9.4,12.9v12.8c-4.5,1.7-7.8,6-7.8,11.1v36.6c0,6.5,5.3,11.8,11.8,11.8
-					s11.8-5.3,11.8-11.8v-36.6C316.6,3109.9,312.9,3105.4,308,3104z"/>
-			</g>
-			<g>
-				<path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="square" d="M308,3104v-12.3c5.9-1.5,10.2-6.8,10.2-13.1
-					c0-7.5-6-13.5-13.5-13.5s-13.5,6-13.5,13.5c0,6,4,11.1,9.4,12.9v12.8c-4.5,1.7-7.8,6-7.8,11.1v36.6c0,6.5,5.3,11.8,11.8,11.8
-					s11.8-5.3,11.8-11.8v-36.6C316.6,3109.9,312.9,3105.4,308,3104z"/>
-			</g>
 		</g>
 		<g>
 			<text transform="matrix(0.75 0 0 1 537.833 3120.75)"><tspan x="0" y="0" font-family="'mplus-2p-bold'" font-size="25">京王永山</tspan><tspan x="0" y="34" font-family="'mplus-2p-bold'" font-size="25">小田急永山</tspan></text>
@@ -14787,8 +14771,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<text transform="matrix(0.75 0 0 1 582 3568.833)" font-family="'mplus-2p-bold'" font-size="48">町田</text>
 		</g>
-		
-			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="422.5" cy="3511" r="13.5"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 350.8242 3572.833)" font-family="'mplus-2p-bold'" font-size="48">相模大野</text>
 			<g>
@@ -14797,8 +14779,6 @@ AQYAkYoIdM8ubRwAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 3547 129.1836)"/>
 			</g>
 			<text transform="matrix(0.75 0 0 1 350.8242 3572.833)" font-family="'mplus-2p-bold'" font-size="48">相模大野</text>
 		</g>
-		
-			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-linecap="square" cx="422.2" cy="3748.9" r="13.5"/>
 		<g>
 			<text transform="matrix(0.75 0 0 1 256.3711 3766.0264)" font-family="'mplus-2p-bold'" font-size="48">中央林間</text>
 			<g>
