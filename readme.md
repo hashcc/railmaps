@@ -5,7 +5,7 @@ Railway maps of world's famous cities. Maps are created by Adobe illustrator, an
 - [Stories of making these maps](http://note.openvista.jp/2014/svg-rail-map).
 
 # Caution
-Outlining character with white color is implemented by "paint-order" property, not the SVG itself. This is SVG 2 property, but it's implemented by Gecko and Webkit browser. So, you can do this like following code (PHP):
+Outlining character with white color is implemented by "paint-order" property, not the SVG itself. This is SVG 2 property, but it's implemented by Gecko and Webkit browser. So, you can do this like following code (CSS with PHP):
 
 ```
 text{
