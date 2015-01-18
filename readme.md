@@ -19,6 +19,11 @@ text{
   }
   ?>
 }
+
+text[fill="#FFFFFF"]{
+  text-shadow: none;
+  stroke: none;
+}
 ```
 
 # License
