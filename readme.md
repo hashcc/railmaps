@@ -20,6 +20,10 @@ text{
   ?>
 }
 
+g#lv2-big-junction text{
+  stroke-width: 7px;
+}
+
 g#river text, 
 text[fill="#FFFFFF"]{
   text-shadow: none;
