@@ -1,0 +1,45 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+svg:hover{
+  cursor: all-scroll;
+}
+
+#zoom{
+	position: absolute;
+}
+
+#zoom button {
+	display: block;
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+	margin: 10px;
+}
+
+@font-face {
+  font-family:'mplus-2p-heavy';
+  src: url('../fonts/mplus-2p-heavy-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-heavy-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-heavy-sub.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'mplus-2p-bold';
+  src: url('../fonts/mplus-2p-bold-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-bold-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-bold-sub.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'mplus-2p-medium';
+  src: url('../fonts/mplus-2p-medium-sub.eot') format('eot');
+  src: url('../fonts/mplus-2p-medium-sub.woff') format('woff');
+  src: url('../fonts/mplus-2p-medium-sub.ttf') format('truetype');
+}
